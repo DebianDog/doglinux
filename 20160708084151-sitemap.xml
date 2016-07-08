@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+<url>
+    <loc>https://debiandog.github.io/doglinux/</loc>
+
+    <lastmod>2016-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>https://debiandog.github.io/doglinux/zz07about.html</loc>
+
+    <lastmod>2016-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>https://debiandog.github.io/doglinux/zz01debiandogjessie.html</loc>
+
+    <lastmod>2016-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>https://debiandog.github.io/doglinux/zz02debiandog64.html</loc>
+
+    <lastmod>2016-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>https://debiandog.github.io/doglinux/zz02debiandogwheezy.html</loc>
+
+    <lastmod>2016-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>https://debiandog.github.io/doglinux/zz04mintpup.html</loc>
+
+    <lastmod>2016-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>https://debiandog.github.io/doglinux/zz05xenialdog.html</loc>
+
+    <lastmod>2016-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>https://debiandog.github.io/doglinux/zz06other.html</loc>
+
+    <lastmod>2016-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>https://debiandog.github.io/</loc>
+
+    <lastmod>2016-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>https://debiandog.github.io/zz01debiandogjessie.html</loc>
+
+    <lastmod>2016-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>https://debiandog.github.io/zz04mintpup.html</loc>
+
+    <lastmod>2016-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>https://debiandog.github.io/zz02debiandog64.html</loc>
+
+    <lastmod>2016-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>  
+</urlset>
