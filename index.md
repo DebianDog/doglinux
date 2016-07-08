@@ -4,7 +4,10 @@ title:   Home
 image: css/running_hound.gif
 ---
 # Welcome to Dog Linux    
-All "DebianDog" projects (and deratives) are collected on this website.
+All "DebianDog" projects (and deratives) are collected on this website, part of [DebianDog Organization on Github](https://github.com/DebianDog/)
+
+
+&nbsp;
 
 &nbsp;
 

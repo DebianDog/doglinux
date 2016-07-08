@@ -24,7 +24,7 @@ Differences compared to DebianDog or MintPup:
 **puppy** with password **puppy**    
 
 **Specifications:**    
-Build from an absolute minimal Ubuntu full install (using mini.iso).    
+Built from an absolute minimal Ubuntu full install (using mini.iso).    
 Kernel: 4.4.0-21-generic    
 Choice of Boot Methods: porteus-boot and casper-boot , see options in [Documentation from Mintpup](https://github.com/MintPup/MintPup-Trusty/wiki/Boot-methods)    
 Default WM - OpenBox (and option for Jwm, see below)    

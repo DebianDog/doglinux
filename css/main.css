@@ -31,7 +31,7 @@ audio, video, canvas {
     }
 
 body {
-	color: #005E79;
+	color: #004155;
 	font-family: sans-serif;
 	font-weight: 400;
 	font-size: 1em; /* 16px */
@@ -81,7 +81,7 @@ section article > h1 {
     }
     
 h4 {
-	color: #005E79;
+	color: #004155;
 	font-weight: 400;
 	font-size: 1.125em; /* 18px */
 	line-height: 1.3334; /* 24px */
@@ -109,7 +109,16 @@ h6 {
    -webkit-font-smoothing: antialiased;
     }
 
-p, pre, blockquote, ul, ol, dl, figure, figcaption, table, fieldset, details {
+pre {
+	color: #008211;
+	font-size: 1.2em;
+	line-height: 1.3; /* 24px */
+	margin: 1.2em 0; /* 8px 0 */
+	margin-left: 1.5em; /* 24px */
+	padding: 30;
+    }
+
+p, blockquote, ul, ol, dl, figure, figcaption, table, fieldset, details {
 	font-size: 1em; /* 16px */
 	line-height: 1.5; /* 24px */
 	margin: 0.5em 0; /* 8px 0 */
@@ -411,7 +420,7 @@ main .img-wrapper {
 .grid li a:hover h2,
 .grid li a:focus h2,
 .grid li a:active h2 {
-	color: #005E79;
+	color: #004155;
     }
     
 
@@ -487,7 +496,7 @@ main .img-wrapper {
 .nav-primary li a:hover,
 .nav-primary li a:focus,
 .nav-primary li a:active {
-	color: #005E79;
+	color: #004155;
     }
 
 .nav-primary li a:hover,

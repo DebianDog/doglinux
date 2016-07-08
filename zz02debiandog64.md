@@ -26,7 +26,7 @@ Other differences compared to 32 bit DebianDog:
 **puppy** with password **puppy**
 
 **Specifications:**    
-Build from an absulute minimal Debian-Jessie amd64 full install.    
+Built from an absolute minimal Debian-Jessie amd64 full install.    
 Kernel: 3.16.0-4-amd64    
 Choice of Boot Methods: porteus-boot and live-boot v3 (see for options in documentation from DebianDog - Jessie thread)    
 Default WM - OpenBox.    
