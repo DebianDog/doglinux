@@ -5,7 +5,7 @@ image: css/debian-logo64.png
 
 ---
 
-## DebianDog Jessie 64 bit version
+### DebianDog Jessie 64 bit version
 
 [Thread on Puppy Linux forum](http://murga-linux.com/puppy/viewtopic.php?t=101931)
 

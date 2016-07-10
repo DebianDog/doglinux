@@ -4,7 +4,7 @@ title: XenialDog
 image: css/xerus.png
 ---
 
-## XenialDog (Ubuntu 16.04 'Xenial Xerus' LTS, 32-bit)
+### XenialDog (Ubuntu 16.04 'Xenial Xerus' LTS, 32-bit)
 (not to confuse with 'Xenialpup' :) , this is not woof-build, this is Ubuntu minimal "live")
 
 [Thread on Puppy Linux forum](http://murga-linux.com/puppy/viewtopic.php?t=106696)
@@ -15,8 +15,9 @@ Full access to Ubuntu repositories by using apt-get (from terminal) or from Syna
 
 Openbox is the main window-manager, the GUI setup is very much like [DebianDog Jessie 64-bit](zz02debiandog64.html)
 
-Differences compared to DebianDog or MintPup:    
-- Different applications, some are not present and some others added.    
+Differences compared to DebianDog or MintPup:
+    
+- Different applications, some are not included and some others added.    
 - Choices of window-manager are: Openbox and Jwm , see for specifications below    
 
 ## Login details:    
