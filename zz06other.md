@@ -4,6 +4,9 @@ title: Other
 image: css/other.png
 ---
 
+---
+<br>
+
 ## Other related DebianDog distro's:
 
 - [DebianDog Squeeze (oldoldstable) by Toni (saintless)](https://github.com/MintPup/DebianDog-Squeeze){:target="_blank"}   

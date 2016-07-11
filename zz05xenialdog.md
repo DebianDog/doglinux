@@ -4,6 +4,9 @@ title: XenialDog
 image: css/xerus.png
 ---
 
+---
+<br>
+
 ### XenialDog (Ubuntu 16.04 'Xenial Xerus' LTS, 32-bit)
 (not to confuse with 'Xenialpup' :) , this is not woof-build, this is Ubuntu minimal "live")
 

@@ -2,9 +2,10 @@
 layout: menu
 title: DebianDog Wheezy
 image: css/wheezy.png
+---     
 
 ---
- 
+<br> 
 [DebianDog-Wheezy forum thread.](http://murga-linux.com/puppy/viewtopic.php?t=93225){:target="_blank"}   
 [DebianDog-Wheezy updates and  fixes information.](https://github.com/DebianDog/Wheezy/blob/master/Bugs-and-Fixes.md){:target="_blank"}   
 [Extra squashfs modules](https://github.com/DebianDog/Wheezy/releases/tag/v0.1){:target="_blank"}

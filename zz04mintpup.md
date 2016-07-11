@@ -2,9 +2,10 @@
 layout: menu
 title: MintPup
 image: css/mintdeb.png
-
 ---
 
+---
+<br>
 MintPup is small 32-bit Ubuntu/Mint based live CD shaped to look and act like Puppy Linux.     
 Ubuntu structure and Ubuntu behaviour are untouched and Ubuntu/Mint documentation is valid for MintPup. You have access to all Ubuntu/Mint repositories using apt-get or synaptic.
 

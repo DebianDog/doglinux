@@ -3,7 +3,10 @@ layout: mhome
 title:   Home
 image: css/running_hound.gif
 ---
+
 # Welcome to Dog Linux
+---    
+<br>
 
 <p class='colblock' markdown='1'>
 *DebianDog is very small Debian Live CD shaped to look and act like Puppy Linux. Debian structure and Debian behaviour are untouched and Debian documentation is 100% valid for DebianDog. You have access to all debian repositories using apt-get or synaptic.*
@@ -13,7 +16,6 @@ All "DebianDog" projects (and deratives) are collected here, part of [DebianDog 
 
 ##### [*Our thanks to Daniel Baumann! DebianDog wouldn't exist without his work.*](https://lists.debian.org/debian-live/2015/11/msg00024.html "An abrupt End to Debian Live"){:target="_blank"}
 
-&nbsp;
 
 &nbsp;
 

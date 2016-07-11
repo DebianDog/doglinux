@@ -2,10 +2,13 @@
 layout: menu
 title: DebianDog Jessie 64-bit
 image: css/debian-logo64.png
-
 ---
 
+---
+<br>
+
 ### DebianDog Jessie 64 bit version
+
 
 [Thread on Puppy Linux forum](http://murga-linux.com/puppy/viewtopic.php?t=101931){:target="_blank"}
 
