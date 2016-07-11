@@ -7,9 +7,9 @@ image: css/debian-logo64.png
 
 ### DebianDog Jessie 64 bit version
 
-[Thread on Puppy Linux forum](http://murga-linux.com/puppy/viewtopic.php?t=101931)
+[Thread on Puppy Linux forum](http://murga-linux.com/puppy/viewtopic.php?t=101931){:target="_blank"}
 
-For the most documentation see [DebianDog Jessie](zz01debiandogjessie.html) for Info
+For the most documentation see [DebianDog Jessie](zz01debiandogjessie.html){:target="_blank"} for Info
 
 Exceptions:    
 - Any links to files or repository containing i386 packages (or other non 64 bit packages)    
@@ -39,13 +39,13 @@ Menu provided by Obmenu-generator (perl script)
 **Download:**
 
 Iso: [DebianDog64-Jessie-openbox-2016-03-20.iso](https://dl.dropboxusercontent.com/u/36381953/DebDog64-Jessie/DebianDog64-Jessie-openbox-2016-03-20.iso) **Size: 185MB**        
-Md5sum: [DebianDog64-Jessie-openbox-2016-03-20.md5](https://dl.dropboxusercontent.com/u/36381953/DebDog64-Jessie/DebianDog64-Jessie-openbox-2016-03-20.md5)        
+Md5sum: [DebianDog64-Jessie-openbox-2016-03-20.md5](https://dl.dropboxusercontent.com/u/36381953/DebDog64-Jessie/DebianDog64-Jessie-openbox-2016-03-20.md5){:target="_blank"}        
 
 DEVX: [061-DEVX-DebDog64-Jessie-2016-03-20.squashfs](https://dl.dropboxusercontent.com/u/36381953/DebDog64-Jessie/Extra-Modules/061-DEVX-DebDog64-Jessie-2016-03-20.squashfs)    
 
 Locales: [99-locales-DebDog64-2016-03-20.squashfs](https://dl.dropboxusercontent.com/u/36381953/DebDog64-Jessie/Extra-Modules/99-locales-DebDog64-2016-03-20.squashfs)    
 
-Browse [DebDog64-Jessie at DropBox](https://www.dropbox.com/sh/7zw9v8owznjfkze/AADGxeYik7761AX_3jHfxucIa?lst)  
+Browse [DebDog64-Jessie at DropBox](https://www.dropbox.com/sh/7zw9v8owznjfkze/AADGxeYik7761AX_3jHfxucIa?lst){:target="_blank"}  
 
 Thanks very much to everyone who has been involved with DebianDog, specially Toni (saintless), William (mcewanw), Terry (sunburnt) and all who helped by giving feedback on the DebianDog threads.
 

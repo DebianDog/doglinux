@@ -9,9 +9,9 @@ image: css/running_hound.gif
 *DebianDog is very small Debian Live CD shaped to look and act like Puppy Linux. Debian structure and Debian behaviour are untouched and Debian documentation is 100% valid for DebianDog. You have access to all debian repositories using apt-get or synaptic.*
 </p>
 
-All "DebianDog" projects (and deratives) are collected here, part of [DebianDog Organization on Github](https://github.com/DebianDog/ "Join the DebianDog Organization!")
+All "DebianDog" projects (and deratives) are collected here, part of [DebianDog Organization on Github](https://github.com/DebianDog/ "Join the DebianDog Organization!"){:target="_blank"}
 
-##### [*Our thanks to Daniel Baumann! DebianDog wouldn't exist without his work.*](https://lists.debian.org/debian-live/2015/11/msg00024.html "An abrupt End to Debian Live")
+##### [*Our thanks to Daniel Baumann! DebianDog wouldn't exist without his work.*](https://lists.debian.org/debian-live/2015/11/msg00024.html "An abrupt End to Debian Live"){:target="_blank"}
 
 &nbsp;
 
@@ -29,6 +29,7 @@ All "DebianDog" projects (and deratives) are collected here, part of [DebianDog 
 
 ## Under construction...
 {::comment}
+tests commented out...
 <span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">INSPIRATION DAY</span>
 <p class='foo' markdown='1'>
 **Another paragraph** which allows *Markdown* within it.   

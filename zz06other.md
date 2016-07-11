@@ -6,11 +6,11 @@ image: css/other.png
 
 ## Other related DebianDog distro's:
 
-- [DebianDog Squeeze (oldoldstable) by Toni (saintless)](https://github.com/MintPup/DebianDog-Squeeze)   
+- [DebianDog Squeeze (oldoldstable) by Toni (saintless)](https://github.com/MintPup/DebianDog-Squeeze){:target="_blank"}   
 
-- [DebianDog Night by josejp2424](http://www.puppylinuxjosejp2424.com/2015/12/debian-dog-night.html)    
+- [DebianDog Night by josejp2424](http://www.puppylinuxjosejp2424.com/2015/12/debian-dog-night.html){:target="_blank"}    
 
-- [Japanese DebianDog](http://ftp.riken.jp/Linux/simosnet-livecd/debiandog/)
+- [Japanese DebianDog](http://ftp.riken.jp/Linux/simosnet-livecd/debiandog/){:target="_blank"}
 
 ### On Youtube:   
 {::comment}

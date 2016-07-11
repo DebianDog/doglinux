@@ -7,7 +7,7 @@ image: css/xerus.png
 ### XenialDog (Ubuntu 16.04 'Xenial Xerus' LTS, 32-bit)
 (not to confuse with 'Xenialpup' :) , this is not woof-build, this is Ubuntu minimal "live")
 
-[Thread on Puppy Linux forum](http://murga-linux.com/puppy/viewtopic.php?t=106696)
+[Thread on Puppy Linux forum](http://murga-linux.com/puppy/viewtopic.php?t=106696){:target="_blank"}
 
 Very similar to DebianDog, but with the difference that it's Ubuntu based, so can be compared best with [MintPup](zz04mintpup.html)
 
@@ -27,7 +27,7 @@ Differences compared to DebianDog or MintPup:
 **Specifications:**    
 Built from an absolute minimal Ubuntu full install (using mini.iso).    
 Kernel: 4.4.0-21-generic    
-Choice of Boot Methods: porteus-boot and casper-boot , see options in [Documentation from Mintpup](https://github.com/MintPup/MintPup-Trusty/wiki/Boot-methods)    
+Choice of Boot Methods: porteus-boot and casper-boot , see options in [Documentation from Mintpup](https://github.com/MintPup/MintPup-Trusty/wiki/Boot-methods){:target="_blank"}    
 Default WM - OpenBox (and option for Jwm, see below)    
 (with different choice of Desktop modes: tint2 vertical icons, wbar icons or rox-pinboard icons, to choose, run 'Desktop Manager' from Menu)    
 Tint2 bottom panel.       
@@ -57,7 +57,7 @@ Possible TODO: make it smaller (but I'm no good with that)
 **Download:**        
 Firmware-all:    
 Iso: [XenialDog-openbox_jwm-2016-05-21-firmware-all.iso](https://googledrive.com/host/0ByBgCDlZZ8K5bUsxVnhCTkhoZDA/XenialDog/XenialDog-openbox_jwm-2016-05-21-firmware-all.iso) **Size: 289MB**        
-Md5sum: [XenialDog-openbox_jwm-2016-05-21-firmware-all.md5](https://googledrive.com/host/0ByBgCDlZZ8K5bUsxVnhCTkhoZDA/XenialDog/XenialDog-openbox_jwm-2016-05-21-firmware-all.md5)
+Md5sum: [XenialDog-openbox_jwm-2016-05-21-firmware-all.md5](https://googledrive.com/host/0ByBgCDlZZ8K5bUsxVnhCTkhoZDA/XenialDog/XenialDog-openbox_jwm-2016-05-21-firmware-all.md5){:target="_blank"}
 
 Firmware-basic:    
 Iso: [XenialDog-openbox_jwm-2016-05-21-firmware-basic.iso](https://googledrive.com/host/0ByBgCDlZZ8K5bUsxVnhCTkhoZDA/XenialDog/XenialDog-openbox_jwm-2016-05-21-firmware-basic.iso) **Size: 244MB**        
