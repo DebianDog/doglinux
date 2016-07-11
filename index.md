@@ -16,8 +16,7 @@ All "DebianDog" projects (and deratives) are collected here, part of [DebianDog 
 
 ##### [*Our thanks to Daniel Baumann! DebianDog wouldn't exist without his work.*](https://lists.debian.org/debian-live/2015/11/msg00024.html "An abrupt End to Debian Live"){:target="_blank"}
 
-
-&nbsp;
+<br>
 
 &nbsp;
 
