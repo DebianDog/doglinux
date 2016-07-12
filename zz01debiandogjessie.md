@@ -6,8 +6,8 @@ image: css/debian-logo.png
 
 ---
 <br>
-
-[DebianDog-Jessie forum thread.](http://murga-linux.com/puppy/viewtopic.php?t=99460){:target="_blank"}   
+   
+[DebianDog-Jessie forum thread.](html/plinux-jessie.html){:target="_blank"}   
 [DebianDog-Jessie updates and  fixes information.](https://github.com/DebianDog/Jessie/blob/master/Bugs-and-Fixes.md){:target="_blank"}   
 [Extra squashfs modules](https://github.com/DebianDog/Jessie/releases/tag/v.0.1){:target="_blank"}
 
