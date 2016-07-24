@@ -31,7 +31,7 @@ audio, video, canvas {
     }
 
 body {
-	color: #004155;
+	color: #00303F;
 	font-family: sans-serif;
 	font-weight: 500;
 	font-size: 1em; /* 16px */
@@ -146,7 +146,7 @@ em, i, cite, var {
     }
 
 strong, b {
-	color: #004155;
+	color: #00303F;
 	font-weight: 600;
 	line-height: 20%;
     }
@@ -370,7 +370,7 @@ main .img-wrapper {
 .grid li a:hover h2,
 .grid li a:focus h2,
 .grid li a:active h2 {
-	color: #004155;
+	color: #00303F;
     }
     
 
@@ -466,7 +466,7 @@ margin: 1px;
 .nav-primary li a:hover,
 .nav-primary li a:focus,
 .nav-primary li a:active {
-	color: #004155;
+	color: #00303F;
     }
 
 .nav-primary li a:hover,

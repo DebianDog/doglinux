@@ -28,7 +28,7 @@ All "DebianDog" projects (and deratives) are collected here, part of [DebianDog 
 
 - 06 Jul 2016, launched this website  :) see [About](zz07about.html) for Info
 
-## Under construction...
+
 {::comment}
 tests commented out...
 <span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">INSPIRATION DAY</span>
