@@ -55,20 +55,20 @@ The Iso size became quite big mainly because:
 - Package 'linux-firmware' installed (has most firmware)    
 (Edit: Choice now for ISO without 'linux-firmware', see below.)    
 - Python and Perl installed    
-Possible TODO: make it smaller (but I'm no good with that)    
+Possible TODO: make it smaller (but I'm no good with that)
 
-**Download:**        
+**Download:** Update: Download links pointing to Github now, Previous links didn't work anymore because google-drive seems to have stopped support for direct links        
 Firmware-all:    
-Iso: [XenialDog-openbox_jwm-2016-05-21-firmware-all.iso](https://googledrive.com/host/0ByBgCDlZZ8K5bUsxVnhCTkhoZDA/XenialDog/XenialDog-openbox_jwm-2016-05-21-firmware-all.iso) **Size: 289MB**        
-Md5sum: [XenialDog-openbox_jwm-2016-05-21-firmware-all.md5](https://googledrive.com/host/0ByBgCDlZZ8K5bUsxVnhCTkhoZDA/XenialDog/XenialDog-openbox_jwm-2016-05-21-firmware-all.md5){:target="_blank"}
+Iso: [XenialDog-openbox_jwm-2016-05-21-firmware-all.iso](https://github.com/DebianDog/xenialdog/releases/download/v0.1/XenialDog-openbox_jwm-2016-05-21-firmware-all.iso) **Size: 289MB**        
+Md5sum: [XenialDog-openbox_jwm-2016-05-21-firmware-all.md5](https://github.com/DebianDog/xenialdog/releases/download/v0.1/XenialDog-openbox_jwm-2016-05-21-firmware-all.md5){:target="_blank"}
 
 Firmware-basic:    
-Iso: [XenialDog-openbox_jwm-2016-05-21-firmware-basic.iso](https://googledrive.com/host/0ByBgCDlZZ8K5bUsxVnhCTkhoZDA/XenialDog/XenialDog-openbox_jwm-2016-05-21-firmware-basic.iso) **Size: 244MB**        
-Md5sum: [XenialDog-openbox_jwm-2016-05-21-firmware-basic.md5](https://googledrive.com/host/0ByBgCDlZZ8K5bUsxVnhCTkhoZDA/XenialDog/XenialDog-openbox_jwm-2016-05-21-firmware-basic.md5)        
+Iso: [XenialDog-openbox_jwm-2016-05-21-firmware-basic.iso](https://github.com/DebianDog/xenialdog/releases/download/v0.1/XenialDog-openbox_jwm-2016-05-21-firmware-basic.iso) **Size: 244MB**        
+Md5sum: [XenialDog-openbox_jwm-2016-05-21-firmware-basic.md5](https://github.com/DebianDog/xenialdog/releases/download/v0.1/XenialDog-openbox_jwm-2016-05-21-firmware-basic.md5)        
 
-DEVX: [061-DEVX-XenialDog-2016-05-21.squashfs](https://googledrive.com/host/0ByBgCDlZZ8K5YlNRZGlnbDFLY3c/Extra-Modules/061-DEVX-XenialDog-2016-05-21.squashfs)    
+DEVX: [061-DEVX-XenialDog-2016-05-21.squashfs](https://github.com/DebianDog/xenialdog/releases/download/v1.0/061-DEVX-XenialDog-2016-05-21.squashfs)    
 
-Locales: [99-locales-XenialDog-2016-05-21.squashfs](https://googledrive.com/host/0ByBgCDlZZ8K5YlNRZGlnbDFLY3c/Extra-Modules/99-locales-XenialDog-2016-05-21.squashfs)      
+Locales: [99-locales-XenialDog-2016-05-21.squashfs](https://github.com/DebianDog/xenialdog/releases/download/v1.0/99-locales-XenialDog-2016-05-21.squashfs)      
 
 Thanks very much to everyone who has been involved with DebianDog, specially Toni (saintless), William (mcewanw), Terry (sunburnt) and all who helped by giving feedback on the DebianDog threads.
 
