@@ -26,6 +26,10 @@ All "DebianDog" projects (and deratives) are collected here, part of [DebianDog 
     
 ## News:
 
+- 02 Okt 2016, [MintPup](zz04mintpup.html) has been discontinued
+
+- 02 Okt 2016, [DebianDog - Jessie thread -at murga-linux.com-)](http://murga-linux.com/puppy/viewtopic.php?p=926601#926601) has been closed (and locked)
+
 - 06 Jul 2016, launched this website  :) see [About](zz07about.html) for Info
 
 
