@@ -30,7 +30,7 @@ Differences compared to DebianDog or MintPup:
 **Specifications:**    
 Built from an absolute minimal Ubuntu full install (using mini.iso).    
 Kernel: 4.4.0-21-generic    
-Choice of Boot Methods: porteus-boot and casper-boot , see options in [Documentation from Mintpup](https://github.com/MintPup/MintPup-Trusty/wiki/Boot-methods){:target="_blank"}    
+Choice of Boot Methods: porteus-boot and casper-boot , see options [Here](https://github.com/DebianDog/xenialdog/wiki){:target="_blank"}    
 Default WM - OpenBox (and option for Jwm, see below)    
 (with different choice of Desktop modes: tint2 vertical icons, wbar icons or rox-pinboard icons, to choose, run 'Desktop Manager' from Menu)    
 Tint2 bottom panel.       
