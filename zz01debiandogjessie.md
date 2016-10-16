@@ -7,9 +7,16 @@ image: css/debian-logo.png
 ---
 <br>
    
-[DebianDog-Jessie forum thread.](html/plinux-jessie.html){:target="_blank"}   
-[DebianDog-Jessie updates and  fixes information.](https://github.com/DebianDog/Jessie/blob/master/Bugs-and-Fixes.md){:target="_blank"}   
-[Extra squashfs modules](https://github.com/DebianDog/Jessie/releases/tag/v.0.1){:target="_blank"}
+***
+   
+**Update:** New DebianDog-Jessie openbox_xfce version, release 2016-10-16, see further below, and [DebianDog-Jessie iso image - 2016-10-16](https://github.com/DebianDog/Jessie/releases/tag/v2.1/)      
+New forum thread: [DebianDog - Jessie - Continued](http://murga-linux.com/puppy/viewtopic.php?p=928498#928498)
+      
+***         
+   
+[DebianDog-Jessie forum thread.](html/plinux-jessie.html){:target="_blank"} (closed)   
+[DebianDog-Jessie updates and  fixes information.](https://github.com/DebianDog/Jessie/blob/master/Bugs-and-Fixes.md){:target="_blank"} (versions 2015-09-02)   
+[Extra squashfs modules](https://github.com/DebianDog/Jessie/releases/tag/v.0.1){:target="_blank"} (versions 2015-09-02)
 
 DebianDog-Jessie is upgrade from [DebianDog-Wheezy](zz02debiandogwheezy.html) with some modifications and fixes needed for Jessie. Same [boot methods options](https://github.com/DebianDog/Jessie/wiki/Boot-methods){:target="_blank"}, same [Utilities thread](http://www.murga-linux.com/puppy/viewtopic.php?t=93391){:target="_blank"}, same [HowTo thread](http://murga-linux.com/puppy/viewtopic.php?t=93496){:target="_blank"}.
 
@@ -37,16 +44,25 @@ Default WM - JWM with option to switch to IceWM.
 Default File Manager - XFE with option to use Rox.   
 Default Internet Browser - Dillo.
 
-![Jwm version](https://github.com/DebianDog/Jessie/blob/master/screenshots/DebianDog-Jessie-jwm.jpg?raw=true)   
-2. From fredx181:      
+![Jwm version](https://github.com/DebianDog/Jessie/blob/master/screenshots/DebianDog-Jessie-jwm.jpg?raw=true)      
+2. From fredx181:
+**Upgrade to version 2016-10-16**    
+(see also at Github for more info: [DebianDog-Jessie iso image - 2016-10-16](https://github.com/DebianDog/Jessie/releases/tag/v2.1/){:target="_blank"} ):
+
+Iso: [DebianDog-Jessie-openbox_xfce-jwm-2016-10-16.iso](https://github.com/DebianDog/Jessie/releases/download/v2.1/DebianDog-Jessie-openbox_xfce-jwm-2016-10-16.iso) - 255 Mb - kernel-3.16.0-4-686-pae.   
+Md5sum: [DebianDog-Jessie-openbox_xfce-jwm-2016-10-16.md5](https://github.com/DebianDog/Jessie/releases/download/v2.1/DebianDog-Jessie-openbox_xfce-jwm-2016-10-16.md5)
+
+Default WM - OpenBox with XFCE. (with option to switch to JWM (Menu > System > Start Jwm)   
+Default File Manager - Thunar with option to use Rox.   
+Default Internet Browser - Firefox-ESR.   
+
+![OpenBox](https://raw.githubusercontent.com/DebianDog/Jessie/gh-pages/screenshots/debdog2-openbox.jpg)
+
+Older versions:      
 [DebianDog-Jessie-openbox_xfce-2015-09-02.iso](https://github.com/DebianDog/Jessie/releases/download/v.1.0/DebianDog-Jessie-openbox_xfce-2015-09-02.iso) - 197 Mb - kernel 3.16.0-4-586 (for older PC).   
 [DebianDog-Jessie-openbox_xfce-2015-09-02-PAE.iso](https://github.com/DebianDog/Jessie/releases/download/v.1.0/DebianDog-Jessie-openbox_xfce-2015-09-02-PAE.iso) - 200 Mb - kernel-3.16.0-4-686-pae  (for modern PC).
 
-Default WM - OpenBox with XFCE.   
-Default File Manager - Thunar with option to use Rox or XFE.   
-Default Internet Browser - Firefox.
-
-![OpenBox version](https://github.com/DebianDog/Jessie/blob/master/screenshots/DebianDog-Jessie-openbox.jpg?raw=true)
+See also: [Info older openbox_xfce version(2015-09-02)](https://github.com/DebianDog/Jessie/releases/tag/v.1.0){:target="_blank"}
 
 [md5sum check](https://github.com/DebianDog/Jessie/blob/master/md5sum){:target="_blank"}
 
@@ -73,7 +89,7 @@ A big thanks to Kazza and github.com for providing the hosting space for all Deb
 [Lumina Desktop for DebianDog and MintPup](https://github.com/MintPup/Lumina){:target="_blank"}            
 [Setting up Chinese fonts github wiki from limelime](https://github.com/limelime/DebianDog/wiki/Chinese-characters-support-in-Iceweasel-Firefox-and-in-the-console-terminal){:target="_blank"}   
 [DebianDog wireless LAN HowTo thread](http://murga-linux.com/puppy/viewtopic.php?p=833212#833212){:target="_blank"}   
-[MintPup-Trusty LTS](https://github.com/MintPup/MintPup-Trusty){:target="_blank"}   
+[MintPup-Trusty LTS](zz04mintpup.html)   
 [DebianDog-Jessie](https://github.com/DebianDog/Jessie){:target="_blank"}   
 [DebianDog-Wheezy](https://github.com/DebianDog/Wheezy){:target="_blank"}   
 [DebianDog-Squeeze](https://github.com/MintPup/DebianDog-Squeeze){:target="_blank"}   

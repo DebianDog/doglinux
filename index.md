@@ -21,14 +21,15 @@ All "DebianDog" projects (and deratives) are collected here, part of [DebianDog 
 &nbsp;
 
 &nbsp;
-
-&nbsp;
     
 ## News:
 
+- 16 Okt 2016, New forum thread started: [DebianDog - Jessie - Continued](http://murga-linux.com/puppy/viewtopic.php?p=928498#928498)   
+See also [DebianDog-Jessie iso image - 2016-10-16](https://github.com/DebianDog/Jessie/releases/tag/v2.1/) and [DD-Jessie page](zz01debiandogjessie)
+
 - 02 Okt 2016, [MintPup](zz04mintpup.html) has been discontinued
 
-- 02 Okt 2016, [DebianDog - Jessie thread -at murga-linux.com-)](http://murga-linux.com/puppy/viewtopic.php?p=926601#926601) has been closed (and locked)
+- 02 Okt 2016, [DebianDog - Jessie thread -at murga-linux.com-)](http://murga-linux.com/puppy/viewtopic.php?p=926601#926601) has been closed
 
 - 06 Jul 2016, launched this website  :) see [About](zz07about.html) for Info
 
