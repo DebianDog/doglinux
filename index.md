@@ -24,7 +24,7 @@ All "DebianDog" projects (and deratives) are collected here, part of [DebianDog 
     
 ## News:
 
-- 16 Okt 2016, New forum thread started: [DebianDog - Jessie - Continued](http://murga-linux.com/puppy/viewtopic.php?p=928498#928498)   
+- 16 Okt 2016, New forum thread started: [DebianDog - Jessie - Continued](http://murga-linux.com/puppy/viewtopic.php?t=108535)   
 See also [DebianDog-Jessie iso image - 2016-10-16](https://github.com/DebianDog/Jessie/releases/tag/v2.1/) and [DD-Jessie page](zz01debiandogjessie)
 
 - 02 Okt 2016, [MintPup](zz04mintpup.html) has been discontinued

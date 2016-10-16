@@ -10,7 +10,7 @@ image: css/debian-logo.png
 ***
    
 **Update:** New DebianDog-Jessie openbox_xfce version, release 2016-10-16, see further below, and [DebianDog-Jessie iso image - 2016-10-16](https://github.com/DebianDog/Jessie/releases/tag/v2.1/)      
-New forum thread: [DebianDog - Jessie - Continued](http://murga-linux.com/puppy/viewtopic.php?p=928498#928498)
+New forum thread: [DebianDog - Jessie - Continued](http://murga-linux.com/puppy/viewtopic.php?t=108535)
       
 ***         
    
