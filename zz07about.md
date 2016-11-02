@@ -22,8 +22,8 @@ Initiated by Toni (saintless) and later assisted by: William (mcewanw), Terry (s
 Followed by:    
 * Mint/Ubuntu Trusty based, 29 Jul 2015: [MintPup (Trusty LTS)](http://www.murga-linux.com/puppy/viewtopic.php?t=100441){:target="_blank"}    
 * DebianDog64, 11 Dec 2015: [DebianDog64 - 64 bit DebianDog-Jessie](http://murga-linux.com/puppy/viewtopic.php?t=101931){:target="_blank"}    
-* XenialDog, Ubuntu based, 29 Apr 2016: [XenialDog (Ubuntu 16.04 'Xenial Xerus' LTS, 32-bit)](http://murga-linux.com/puppy/viewtopic.php?t=106696){:target="_blank"} 
-
+* XenialDog, Ubuntu based, 29 Apr 2016: [XenialDog (Ubuntu 16.04 'Xenial Xerus' LTS, 32-bit)](http://murga-linux.com/puppy/viewtopic.php?t=106696){:target="_blank"}    
+* DebianDog-Jessie 2016-10-16 (xfce_openbox only): [DebianDog - Jessie - Continued](http://murga-linux.com/puppy/viewtopic.php?t=108535){:target="_blank"}
    
                                                        
                          
