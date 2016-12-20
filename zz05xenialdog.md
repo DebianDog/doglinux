@@ -10,6 +10,12 @@ image: css/xerus.png
 ### XenialDog (Ubuntu 16.04 'Xenial Xerus' LTS, 32-bit)
 (not to confuse with 'Xenialpup' :) , this is not woof-build, this is Ubuntu minimal "live")
 
+***      
+**New** (20 Dec 2016):   
+XenialDog with **Deepin** DE, see [Forum Thread](http://murga-linux.com/puppy/viewtopic.php?p=936447#936447) 
+     
+***   
+
 [Thread on Puppy Linux forum](http://murga-linux.com/puppy/viewtopic.php?t=106696){:target="_blank"}
 
 Very similar to DebianDog, but with the difference that it's Ubuntu based, so can be compared best with [MintPup](zz04mintpup.html)
