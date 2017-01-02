@@ -24,7 +24,9 @@ All "DebianDog" projects (and deratives) are collected here, part of [DebianDog 
     
 ## News:
 
-- 20 Dec 2016, XenialDog with **Deepin** DE, see [Forum Thread](http://murga-linux.com/puppy/viewtopic.php?p=936447#936447) 
+- 02 Jan 2017, DebianDog-Stretch with **Deepin** DE, see [Forum Thread](http://murga-linux.com/puppy/viewtopic.php?t=109317){:target="_blank"} and [Here (see Deepin)](https://github.com/DebianDog/Stretch/blob/gh-pages/README.md){:target="_blank"}      
+
+- 20 Dec 2016, XenialDog with **Deepin** DE, see [Forum Thread](http://murga-linux.com/puppy/viewtopic.php?p=936447#936447){:target="_blank"} [02 Jan 2017: Discontinued](http://murga-linux.com/puppy/viewtopic.php?p=937814#937814){:target="_blank"}    
 
 - 16 Okt 2016, New forum thread started: [DebianDog - Jessie - Continued](http://murga-linux.com/puppy/viewtopic.php?t=108535)   
 See also [DebianDog-Jessie iso image - 2016-10-16](https://github.com/DebianDog/Jessie/releases/tag/v2.1/) and [DD-Jessie page](zz01debiandogjessie)
