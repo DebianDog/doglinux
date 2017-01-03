@@ -405,7 +405,8 @@ main .img-wrapper {
     
     @media (min-width: 10em) {
     .nav-primary {
-        width: 25%;	
+        width: 25%;
+	height: 402px;	
         }
     }
 
