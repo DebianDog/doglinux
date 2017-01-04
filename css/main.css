@@ -264,7 +264,8 @@ main {
     @media (min-width:10em) {
     main {
 	    float: right;
-	    width: 75%;
+
+	padding-left: 225px;
 	    clear: none;
         }
     }
@@ -303,14 +304,16 @@ main {
 .img-wrapper {
 	margin: 0;
 	position: absolute;
-	top: 1%;
+	top: 2%;
 	right: 1%;
+
 	}
 
 .img-wrapper img {
     display: block;
     height: 100px;
     width: 100px;
+
     }
 
 
@@ -405,8 +408,11 @@ main .img-wrapper {
     
     @media (min-width: 10em) {
     .nav-primary {
-        width: 25%;
-	height: 402px;	
+        width: 200px;
+
+
+
+	height: 462px;	
         }
     }
 
@@ -432,6 +438,7 @@ main .img-wrapper {
 	margin-right: 85px;
 	font-size: 2.5em;
 	margin-top: 0.5em;
+
     }
 
 .nav-primary li .img-wrapper {
@@ -441,12 +448,13 @@ main .img-wrapper {
     }
 
 .nav-primary .img-wrapper img {
-	width: 45px;
-	height: 45px;
+	width: 40px;
+	height: 40px;
 	background-color: #E8F0EF;
 	opacity: 0.5;
 margin-left: 3px;
-margin-top: 2px;
+margin-top: 3px;
+
     }
 
 .nav-primary .img-wrapper:before {
@@ -458,7 +466,7 @@ margin-top: 2px;
 	border-bottom: none;
 	color: #225D4C;
         border-left: 48px solid #E8F0EF;
-	padding: 17px 0 8px 11px;
+	padding: 5px 0 17px 11px;
 	background-color: #E8F0EF;
 
 margin: 1px;
