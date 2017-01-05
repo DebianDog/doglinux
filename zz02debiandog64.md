@@ -24,7 +24,7 @@ Other differences compared to 32 bit DebianDog:
 - Different applications, some are missing and some added.    
 - Just one version (Openbox) (instead 2 versions that DebianDog 32 bit provides (JWM and Openbox_xfce), see for specifications below)    
 
-## Login details:
+#### Login details:
 **root** with password **root**    
 **puppy** with password **puppy**
 
