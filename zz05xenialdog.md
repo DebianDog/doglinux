@@ -29,7 +29,7 @@ Differences compared to DebianDog or MintPup:
 - Different applications, some are not included and some others added.    
 - Choices of window-manager are: Openbox and Jwm , see for specifications below    
 
-## Login details:    
+### Login details:    
 **root** with password **root**        
 **puppy** with password **puppy**    
 

@@ -11,11 +11,9 @@ Ubuntu structure and Ubuntu behaviour are untouched and Ubuntu/Mint documentatio
 
 **Update:** Mintpup has been discontinued
 
-Iso still available here:
+Iso still available here: 
 
-[MintPup iso image](http://kazzascorner.com.au/saintless/MintPup/MintPup-jwm-icewm-hybrid-07.05.2016.iso){:target="_blank"}
-
-And, Thanks to Ally: [mirror, MintPup at archive.org](https://archive.org/details/Puppy_Linux_MintPup){:target="_blank"}
+Thanks to Ally: [MintPup at archive.org](https://archive.org/details/Puppy_Linux_MintPup){:target="_blank"}
 
 [Forum thread](http://murga-linux.com/puppy/viewtopic.php?t=100441){:target="_blank"}
 
