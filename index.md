@@ -20,9 +20,12 @@ All "DebianDog" projects (and deratives) are collected here, part of [DebianDog 
 
 &nbsp;
 
-&nbsp;
     
-## News:
+## News:   
+
+- 18 Jan 2017, XenialDog 64-bit is out! see [Here](zz05zxenialdog.html) and [Forum thread](http://murga-linux.com/puppy/viewtopic.php?t=109476){:target="_blank"}   
+
+ - 18 Jan 2017, XenialDog 32-bit ISO upgrade see [Forum thread](http://murga-linux.com/puppy/viewtopic.php?p=939919#939919){:target="_blank"} and on the [XenialDog page](zz05xenialdog.html){:target="_blank"} 
 
 - 02 Jan 2017, DebianDog-Stretch with **Deepin** DE, see [Forum Thread](http://murga-linux.com/puppy/viewtopic.php?t=109317){:target="_blank"} and [Here (see Deepin)](https://github.com/DebianDog/Stretch/blob/gh-pages/README.md){:target="_blank"}      
 

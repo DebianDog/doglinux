@@ -1,0 +1,72 @@
+---
+layout: menu
+title: XenialDog 64-bit
+image: css/xerus64.png
+---
+
+---
+<br>
+
+### XenialDog (Ubuntu 16.04 'Xenial Xerus' LTS 64-bit)   
+(Ubuntu minimal "live")     
+version 2017-01-18   
+
+[Thread on Puppy Linux forum](http://murga-linux.com/puppy/viewtopic.php?t=106696){:target="_blank"}
+
+Very similar to DebianDog, but with the difference that it's Ubuntu based
+
+Full access to Ubuntu repositories by using apt-get (from terminal) or from Synaptic Package Manager (GUI)
+
+Openbox is the main window-manager, the GUI setup is very much like [DebianDog Jessie 64-bit](zz02debiandog64.html)
+
+Differences compared to DebianDog:
+    
+- Different applications, some are not included and some others added.    
+- Choices of window-manager are: Openbox and Jwm , see for specifications below    
+
+### Login details:    
+**root** with password **root**        
+**puppy** with password **puppy**    
+
+**Specifications:**    
+Built from an absolute minimal Ubuntu full install (using mini.iso).    
+Kernel: 4.4.0-59-generic    
+Choice of Boot Methods: porteus-boot and casper-boot , see options [Here](https://github.com/DebianDog/xenialdog/wiki)   
+Default WM - OpenBox (and option for Jwm, see below)    
+(with different choice of Desktop modes: tint2 icon-panel, cairo-dock or rox-pinboard icons, to choose, run 'Desktop Manager' from Menu)    
+Tint2 bottom panel or cairo-dock.
+(replaced wbar (from previous (32-bit) version) with a minimal cairo-dock       
+Default File Manager - pcmanfm with option to use rox.    
+Default Internet Browser - Firefox.    
+Menu provided by Obmenu-generator (perl script)   
+
+### Added: Quick-Remaster and Upgrade-kernel tools    
+ 
+Option to switch to JWM (Menu > System > Start Jwm)    
+
+Full LZ4 squashfs support (compression and loading modules)    
+
+Systemd is enabled by default      
+
+The Iso size became quite big mainly because:    
+- Big size of Ubuntu kernel 4.4.0-59-generic (in /lib/modules)    
+- Package 'linux-firmware' installed (has most firmware)        
+- Python and Perl installed    
+
+**Download:**   
+Iso: [XenialDog_64bit-openbox_jwm-2017-01-18-firmware-all.iso](https://github.com/DebianDog/xenialdog/releases/download/v0.2/XenialDog_64bit-openbox_jwm-2017-01-18-firmware-all.iso){:target="_blank"} Size: 310MB           
+Md5sum: [XenialDog_64bit-openbox_jwm-2017-01-18-firmware-all.md5](https://github.com/DebianDog/xenialdog/releases/download/v0.2/XenialDog_64bit-openbox_jwm-2017-01-18-firmware-all.md5){:target="_blank"}
+
+DEVX: [061-DEVX-XenialDog64-2017-01-18.squashfs](https://github.com/DebianDog/xenialdog/releases/download/v2.0/61-DEVX-XenialDog64-2017-01-18.squashfs){:target="_blank"}       
+Locales: [99-locales-XenialDog64-2017-01-18.squashfs](https://github.com/DebianDog/xenialdog/releases/download/v2.0/99-locales-XenialDog64-2017-01-18.squashfs){:target="_blank"}   
+
+XenialDog64 custom package repository:  [Here](https://debiandog.github.io/xenialdog/Packages64/){:target="_blank"}      
+
+Thanks very much to everyone who has been involved with DebianDog or XenialDog, specially Toni (saintless), William (mcewanw), Terry (sunburnt), The Flying Cat and all who helped by giving feedback on the DebianDog threads.
+
+**Screenshot:**         
+      
+OpenBox with cairo-dock         
+![OpenBox](images/xendog64_cairo-dock.png) 
+
+
