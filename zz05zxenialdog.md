@@ -11,7 +11,7 @@ image: css/xerus64.png
 (Ubuntu minimal "live")     
 version 2017-01-18   
 
-[Thread on Puppy Linux forum](http://murga-linux.com/puppy/viewtopic.php?t=106696){:target="_blank"}
+[Thread on Puppy Linux forum](http://murga-linux.com/puppy/viewtopic.php?t=109476){:target="_blank"}
 
 Very similar to DebianDog, but with the difference that it's Ubuntu based
 
