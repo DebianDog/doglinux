@@ -21,7 +21,9 @@ All "DebianDog" projects (and deratives) are collected here, part of [DebianDog 
 &nbsp;
 
     
-## News:   
+## News:
+
+ - 22 Jan 2017, new ISO for both XenialDog 32-bit and 64-bit, see [Here](http://murga-linux.com/puppy/viewtopic.php?p=940488&sid=fa8f3cd004cc17b79ab104a2d37b5e9e#940488){:target="_blank"} or [Here](http://murga-linux.com/puppy/viewtopic.php?p=940485#940485){:target="_blank"}  
 
 - 18 Jan 2017, XenialDog 64-bit is out! see [Here](zz05zxenialdog.html) and [Forum thread](http://murga-linux.com/puppy/viewtopic.php?t=109476){:target="_blank"}   
 

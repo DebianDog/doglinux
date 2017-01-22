@@ -11,6 +11,9 @@ image: css/xerus64.png
 (Ubuntu minimal "live")     
 version 2017-01-18   
 
+**Update 2017-01-22:**         
+ISO upgraded to version 2017-01-22, below information and download links updated        
+
 [Thread on Puppy Linux forum](http://murga-linux.com/puppy/viewtopic.php?t=109476){:target="_blank"}
 
 Very similar to DebianDog, but with the difference that it's Ubuntu based
@@ -54,8 +57,8 @@ The Iso size became quite big mainly because:
 - Python and Perl installed    
 
 **Download:**   
-Iso: [XenialDog_64bit-openbox_jwm-2017-01-18-firmware-all.iso](https://github.com/DebianDog/xenialdog/releases/download/v0.2/XenialDog_64bit-openbox_jwm-2017-01-18-firmware-all.iso){:target="_blank"} Size: 310MB           
-Md5sum: [XenialDog_64bit-openbox_jwm-2017-01-18-firmware-all.md5](https://github.com/DebianDog/xenialdog/releases/download/v0.2/XenialDog_64bit-openbox_jwm-2017-01-18-firmware-all.md5){:target="_blank"}
+Iso: [XenialDog_64bit-openbox_jwm-2017-01-22-firmware-all.iso](https://github.com/DebianDog/xenialdog/releases/download/v0.2/XenialDog_64bit-openbox_jwm-2017-01-22-firmware-all.iso){:target="_blank"} Size: 310MB           
+Md5sum: [XenialDog_64bit-openbox_jwm-2017-01-22-firmware-all.md5](https://github.com/DebianDog/xenialdog/releases/download/v0.2/XenialDog_64bit-openbox_jwm-2017-01-22-firmware-all.md5){:target="_blank"}
 
 DEVX: [061-DEVX-XenialDog64-2017-01-18.squashfs](https://github.com/DebianDog/xenialdog/releases/download/v2.0/61-DEVX-XenialDog64-2017-01-18.squashfs){:target="_blank"}       
 Locales: [99-locales-XenialDog64-2017-01-18.squashfs](https://github.com/DebianDog/xenialdog/releases/download/v2.0/99-locales-XenialDog64-2017-01-18.squashfs){:target="_blank"}   
