@@ -14,7 +14,9 @@ version 2017-01-18
 **Update 2017-01-22:**         
 ISO upgraded to version 2017-01-22, below information and download links updated        
 
-[Thread on Puppy Linux forum](http://murga-linux.com/puppy/viewtopic.php?t=109476){:target="_blank"}
+[Thread on Puppy Linux forum](http://murga-linux.com/puppy/viewtopic.php?t=109476){:target="_blank"}   
+
+**[See here for Changes and Fixes information](http://murga-linux.com/puppy/viewtopic.php?p=939927#939927)**   
 
 Very similar to DebianDog, but with the difference that it's Ubuntu based
 
