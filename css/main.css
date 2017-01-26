@@ -34,7 +34,7 @@ body {
 	color: #200600;
 	font-family: sans-serif;
 	font-weight: 500;
-	font-size: 1em; /* 16px */
+	font-size: 0.9em; /* 16px */
 	line-height: 1; /* 16px */
 	text-rendering: optimizeLegibility;
 	margin: 0 auto;
@@ -255,7 +255,7 @@ nav ul {
 
 
 main {
-	padding: 1em 2% 2em;
+	padding: 1.5em 2% 2em;
 	float: left;
 	width: 100%;
 	/* background-color: #61947E; */
@@ -264,7 +264,7 @@ main {
     @media (min-width:10em) {
     main {
 	    float: right;
-	padding-left: 198px;
+	padding-left: 206px;
 	    clear: none;
         }
     }
@@ -379,11 +379,11 @@ main .img-wrapper {
 	float: left;
 	padding: 0;
 	font-family: 'Bitter';
-	font-size: 0.9em;
+	font-size: 1em;
 	position: fixed;
 	display: block;
 	width: 100%;
-	margin: 0.3em 0 1.5em 0.3em;
+	margin: 0.6em 0 1.5em 0.6em;
 	background-color: #947761;
 	overflow: hidden;
 
@@ -394,7 +394,7 @@ main .img-wrapper {
 	color: #fff;
 	display: block;
 	font-family: 'Bitter';
-	font-size: 1.0em;
+	font-size: 0.9em;
 	position: relative;
 	padding: 0.5em;
 	padding-left: 0.7em;
@@ -409,8 +409,8 @@ main .img-wrapper {
     
     @media (min-width: 10em) {
     .nav-primary {
-        width: 166px;
-	height: 428px;	
+        width: 164px;
+	height: 406px;	
         }
     }
 
@@ -444,7 +444,7 @@ main .img-wrapper {
 .nav-primary li .img-wrapper {
 	left: 0;
 margin-top: 3px;
-margin-left: 4px;	
+margin-left: 5px;	
 	
     }
 
@@ -464,9 +464,9 @@ margin-left: 4px;
 	border-bottom: none;
 	color: #64493D;
 
-	padding: 10px 0 8px 51px;
+	padding: 8px 0 7px 51px;
 	background-color: #EBE7E3;
-	line-height: 1.18;
+	line-height: 1.1;
 min-height: 42px;
 
 margin: 1px;
