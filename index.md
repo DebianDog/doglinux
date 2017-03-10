@@ -45,7 +45,7 @@ See also [DebianDog-Jessie iso image - 2016-10-16](https://github.com/DebianDog/
 
 {::comment}
 tests commented out...
-<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">INSPIRATION DAY</span>
+<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">INSPIRATION DAYS</span>
 <p class='foo' markdown='1'>
 **Another paragraph** which allows *Markdown* within it.   
 **Another paragraph** which allows *Markdown* within it.
