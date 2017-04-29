@@ -1,6 +1,6 @@
 ---
 layout: menu
-title: About
+title: About    
 image: css/Info.png
 ---
 
