@@ -1,5 +1,6 @@
 ---
 layout: menu
+comments: true
 title: XenialDog
 image: css/xerus.png
 ---
@@ -79,6 +80,5 @@ OpenBox with cairo-dock
 ![OpenBox](images/xendog32_cairo-dock.png)       
 JWM      
 ![JWM](images/xendog_jwm.jpg) 
-
 
 
