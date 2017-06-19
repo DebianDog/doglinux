@@ -1,6 +1,6 @@
 ---
 layout: menu
-comments: true
+comments: false
 title: XenialDog
 image: css/xerus.png
 ---
