@@ -14,7 +14,17 @@ image: css/running_hound.gif
 
 All "DebianDog" projects (and deratives) are collected here, part of [DebianDog Organization on Github](https://github.com/DebianDog/ "Join the DebianDog Organization!"){:target="_blank"}
 
-##### [*Our thanks to Daniel Baumann! DebianDog wouldn't exist without his work.*](https://lists.debian.org/debian-live/2015/11/msg00024.html "An abrupt End to Debian Live"){:target="_blank"}
+### [*Our thanks to Daniel Baumann! DebianDog wouldn't exist without his work.*](https://lists.debian.org/debian-live/2015/11/msg00024.html "An abrupt End to Debian Live"){:target="_blank"}    
+
+The DebianDog team also like to give thanks to Smokey and KazzaMozz for hosting DebianDog project
+to Debian team for keeping Debian such flexible system,
+to the murga-linux Puppy forum for the opportunity to work on a project different from puppy linux,
+to our Puppy forum members working on DebianDog development:
+Toni (saintless), Fred (fredx181), Terry (sunburnt), William (mcewanw), Sergey (sklimkin),
+and for the valuable advices to: jbv, sfs, catsezmoo, big_bass, emil, dancytron, anikin from our forum
+and dzz from www.debianuserforums.org
+And to Sickgut for his original idea that made possible DebianDog to exist.
+
 
 <br>
 
