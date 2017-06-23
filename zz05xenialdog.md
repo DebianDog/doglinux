@@ -14,6 +14,10 @@ ISO upgraded to version 2017-01-22, below information and download links updated
 ### XenialDog (Ubuntu 16.04 'Xenial Xerus' LTS, 32-bit)
 (Ubuntu minimal "live")
 
+**XenialDog is a fork of "DebianDog" which is a community project once started by forum member saintless.**   
+See also for Debiandog history: [Here](https://debiandog.github.io/doglinux/zz07about.html){:target="_blank"}   
+DebianDog full credits: [Here](https://github.com/DebianDog/Wheezy/blob/master/Credits.md){:target="_blank"}  
+
 [Thread on Puppy Linux forum](http://murga-linux.com/puppy/viewtopic.php?t=106696){:target="_blank"}   
 
 **[See here for Changes and Fixes information](http://murga-linux.com/puppy/viewtopic.php?p=901549#901549)**   
