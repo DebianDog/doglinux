@@ -7,9 +7,7 @@ image: css/other.png
 ---
 <br>
 
-## Other related DebianDog distro's:
-
-- [DebianDog Squeeze (oldoldstable) by Toni (saintless)](http://murga-linux.com/puppy/viewtopic.php?t=90586){:target="_blank"} (has been discontinued at 02-10-2016)    
+## Other related DebianDog distro's:   
 
 - [DebianDog Night by josejp2424](http://www.puppylinuxjosejp2424.com/2015/12/debian-dog-night.html){:target="_blank"}    
 
