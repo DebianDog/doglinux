@@ -32,7 +32,7 @@ Internet Browser - QtWeb (and Konqueror).
 (thanks to OscarTalks for QtWeb pet)      
 NetworkManager for Stretch version is Ceni, Jessie version has Frisbee.
 
-**Download TrinityDog-Jessie:**   
+**Download TrinityDog-Jessie:** (based on Debian 8, LTS, supported at least until 2020)     
 Iso: [TrinityDog-Jessie-2017-07-18.iso](https://github.com/DebianDog/trinitydog/releases/download/v1.0/TrinityDog-Jessie-2017-07-18.iso){:target="_blank"} Size: 262MB           
 Md5sum: [TrinityDog-Jessie-2017-07-18.md5](https://github.com/DebianDog/trinitydog/releases/download/v1.0/TrinityDog-Jessie-2017-07-18.md5){:target="_blank"}      
 
@@ -41,7 +41,7 @@ Firmware squashfs: [51-firmware-jessie-2017-07-18.squashfs](https://github.com/D
 Locales squashfs: [99-locales-jessie-2017-07-18.squashfs](https://debiandog.github.io/Misc/Jessie/i386/Packages/SFS/99-locales-jessie-2017-07-18.squashfs){:target="_blank"}      
         
 
-**Download TrinityDog-Stretch:**   
+**Download TrinityDog-Stretch:** (based on Debian 9, LTS, supported at least until 2022)        
 Iso: [TrinityDog-Stretch-2017-07-18.iso](https://github.com/DebianDog/trinitydog/releases/download/v2.0/TrinityDog-Stretch-2017-07-18.iso){:target="_blank"} Size: 286MB           
 Md5sum: [TrinityDog-Stretch-2017-07-18.md5](https://github.com/DebianDog/trinitydog/releases/download/v2.0/TrinityDog-Stretch-2017-07-18.md5){:target="_blank"}   
 
