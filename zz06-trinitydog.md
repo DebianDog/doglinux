@@ -11,6 +11,8 @@ image: css/tde-logo.png
 
 **TrinityDog is a fork of "DebianDog"** (info and credits [Here](index.html){:target="_blank"}) with a basic [Trinity Desktop Environment](https://www.trinitydesktop.org/){:target="_blank"}   
 
+[See Here for Bugs and Fixes Information](https://github.com/DebianDog/trinitydog/blob/master/Bugs-and-fixes-information.md){:target="_blank"}      
+
 [Forum Thread](http://murga-linux.com/puppy/viewtopic.php?t=111075){:target="_blank"}   
    
 A Jessie test version was earlier shared already [Here](http://murga-linux.com/puppy/viewtopic.php?p=945453#945453){:target="_blank"}          

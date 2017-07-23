@@ -29,6 +29,8 @@ And to Sickgut for his original idea that made possible DebianDog to exist.
     
 ## News:
 
+ - 19 July 2017, New! [TrinityDog, a fork of DebianDog](zz06-trinitydog.html){:target="_blank"}   
+
  - 24 June 2017, Licence added to all repositories in the [DebianDog Organization on Github](https://github.com/DebianDog/ "Join the DebianDog Organization!"){:target="_blank"}   
 
  - 22 Jan 2017, new ISO for both XenialDog 32-bit and 64-bit, see [Here](http://murga-linux.com/puppy/viewtopic.php?p=940488&sid=fa8f3cd004cc17b79ab104a2d37b5e9e#940488){:target="_blank"} or [Here](http://murga-linux.com/puppy/viewtopic.php?p=940485#940485){:target="_blank"}  
