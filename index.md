@@ -27,7 +27,9 @@ And to Sickgut for his original idea that made possible DebianDog to exist.
 &nbsp;
 
     
-## News:
+## News:   
+
+ - 27 Aug 2017, [Create a Debian 9 (Stretch) minimal live ISO similar to 'DebianDog](https://github.com/DebianDog/MakeLive/blob/gh-pages/README-Stretch.md){:target="_blank"}      
 
  - 19 July 2017, New! [TrinityDog, a fork of DebianDog](zz06-trinitydog.html){:target="_blank"}   
 
