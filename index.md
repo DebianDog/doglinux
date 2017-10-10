@@ -27,7 +27,9 @@ And to Sickgut for his original idea that made possible DebianDog to exist.
 &nbsp;
 
     
-## News:   
+## News:
+
+ - 10 Oct 2017, [StretchDog, a variant of DebianDog](zz02stretchdog.html){:target="_blank"}  / [Forum thread](http://murga-linux.com/puppy/viewtopic.php?t=111789){:target="_blank"}  
 
  - 27 Aug 2017, [Create a Debian 9 (Stretch) minimal live ISO similar to 'DebianDog](https://github.com/DebianDog/MakeLive/blob/gh-pages/README-Stretch.md){:target="_blank"}      
 
