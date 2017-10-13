@@ -35,7 +35,13 @@ Iso 32 bit: [StretchDog32-openbox_xfce-jwm-2017-10-10.iso](https://github.com/fr
 Md5sum: [StretchDog32-openbox_xfce-jwm-2017-10-10.md5](https://github.com/fredx181/StretchDog/releases/download/v2.0/StretchDog32-openbox_xfce-jwm-2017-10-10.md5){:target="_blank"}  
 
 Iso 64 bit: [StretchDog64-openbox_xfce-jwm-2017-10-10.iso](https://github.com/fredx181/StretchDog/releases/download/v2.0/StretchDog64-openbox_xfce-jwm-2017-10-10.iso){:target="_blank"} **Size: 256MB**          
-Md5sum: [StretchDog64-openbox_xfce-jwm-2017-10-10.md5](https://github.com/fredx181/StretchDog/releases/download/v2.0/StretchDog64-openbox_xfce-jwm-2017-10-10.md5){:target="_blank"}         
+Md5sum: [StretchDog64-openbox_xfce-jwm-2017-10-10.md5](https://github.com/fredx181/StretchDog/releases/download/v2.0/StretchDog64-openbox_xfce-jwm-2017-10-10.md5){:target="_blank"}
+
+**Mirrors (thanks to ally !):**  
+          
+<https://archive.org/download/Puppy_Linux_StretchDog32/StretchDog32-openbox_xfce-jwm-2017-10-10.iso>   
+         
+<https://archive.org/download/Puppy_Linux_StretchDog64/StretchDog64-openbox_xfce-jwm-2017-10-10.iso>                   
 
 DEVX and Firmware squashfs modules: [Here](https://github.com/fredx181/StretchDog/releases/v2.1){:target="_blank"}      
 
