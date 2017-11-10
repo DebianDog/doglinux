@@ -394,15 +394,17 @@ main .img-wrapper {
 	color: #fff;
 	display: block;
 	font-family: 'Bitter';
-	font-size: 0.9em;
+	font-size: 1.0em;
 	position: relative;
 	padding: 0.5em;
-	padding-left: 0.7em;
+	padding-left: 0.8em;
+	padding-top: 0.5em;
+	padding-bottom: 0.7em;
 	float: left;
 	width: 98%;
-	margin: 0 0 1.5em 0;
+	margin: 1.5em 0 0.8em 0;
 	margin-left: 0.7em; /* 24px */
-	background-color: #225D4C; /* #5F473B chocolate */
+    background: linear-gradient(to top, rgba(78,74,40,.9), rgba(180,170,160,1));
 
     }
 
@@ -466,6 +468,7 @@ margin-left: 5px;
 
 	padding: 8px 0 9px 51px;
 	background-color: #EBE7E3;
+    background: linear-gradient(to top, rgba(218,214,208,.90), rgba(250,245,239,3));
 	line-height: 1.1;
 height: 45px;
 
@@ -484,6 +487,7 @@ margin: 1px;
 .nav-primary .active,
 .nav-primary .active:hover {
 	background-color: #F5F2EC;
+    background: linear-gradient(to top, rgba(198,194,190,.90), rgba(250,245,230,3));
 	color: #252525;
     }
    
@@ -491,6 +495,7 @@ margin: 1px;
 .nav-primary .active,
 .nav-primary .active:active {
     	background-color: #735C4B;
+    background: linear-gradient(to top, rgba(78,74,40,.9), rgba(180,170,160,1));
     	color: #fff;
     }
 
