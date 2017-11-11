@@ -264,7 +264,7 @@ main {
     @media (min-width:10em) {
     main {
 	    float: right;
-	padding-left: 198px;
+	padding-left: 206px;
 	    clear: none;
         }
     }
@@ -383,8 +383,8 @@ main .img-wrapper {
 	position: fixed;
 	display: block;
 	width: 100%;
-	margin: 0.4em 0 1.5em 0.6em;
-
+	margin: 0.6em 0 1.5em 0.6em;
+	background-color: #947761;
 	overflow: hidden;
 
 	box-shadow: 6px 5px 8px rgba(0,0,0,0.1);
@@ -404,15 +404,15 @@ main .img-wrapper {
 	width: 98%;
 	margin: 1.5em 0 0.8em 0;
 	margin-left: 0.7em; /* 24px */
-    background: linear-gradient(to top, rgba(85,65,45,.9), rgba(190,178,164,1));
+    background: linear-gradient(to top, rgba(78,74,40,.9), rgba(180,170,160,1));
 
     }
 
     
     @media (min-width: 10em) {
     .nav-primary {
-        width: 158px;
-	height: 576px;	
+        width: 164px;
+	height: 553px;	
         }
     }
 
@@ -466,14 +466,13 @@ margin-left: 5px;
 	border-bottom: none;
 	color: #64493D;
 
-	padding: 8px 0 9px 54px;
+	padding: 8px 0 9px 51px;
 	background-color: #EBE7E3;
-    background: linear-gradient(to top, rgba(192,186,178,.9), rgba(250,240,232,1));
+    background: linear-gradient(to top, rgba(218,214,208,.90), rgba(250,245,239,3));
 	line-height: 1.1;
 height: 45px;
 
-	margin-top: 3px;
-	margin-bottom: 3px;
+margin: 1px;
     }
 
 .nav-primary li a:hover,
@@ -488,7 +487,7 @@ height: 45px;
 .nav-primary .active,
 .nav-primary .active:hover {
 	background-color: #F5F2EC;
-    background: linear-gradient(to top, rgba(216,210,197,.9), rgba(255,249,242,1));
+    background: linear-gradient(to top, rgba(198,194,190,.90), rgba(250,245,230,3));
 	color: #252525;
     }
    
@@ -496,7 +495,7 @@ height: 45px;
 .nav-primary .active,
 .nav-primary .active:active {
     	background-color: #735C4B;
-    background: linear-gradient(to top, rgba(85,65,45,.9), rgba(190,178,164,1));
+    background: linear-gradient(to top, rgba(78,74,40,.9), rgba(180,170,160,1));
     	color: #fff;
     }
 
