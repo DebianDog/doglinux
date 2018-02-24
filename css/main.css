@@ -270,17 +270,17 @@ main {
     }
 
 .container {
-    background: url("snow.png") #FFFCE9;
-    width: 100%;
-    	background-color: #FFFCE9;
-    float: left;
+    background: url("lake.jpg") fixed;
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     }
 
-    @media (min-width:10em) {
-    .container {
-        background: url("snow.png") #FFFCE9 fixed;
-        }
-    }
 
 
     

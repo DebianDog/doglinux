@@ -5,8 +5,7 @@ image: css/running_hound.gif
 ---
 
 # Welcome to Dog Linux
----    
-
+---  
 
 <p class='colblock' markdown='1'>
 *DebianDog is very small Debian Live CD shaped to look and act like Puppy Linux. Debian structure and Debian behaviour are untouched and Debian documentation is 100% valid for DebianDog. You have access to all debian repositories using apt-get or synaptic.*
@@ -25,6 +24,8 @@ and for the valuable advices to: jbv, sfs, catsezmoo, big_bass, emil, dancytron,
 
     
 ## News:
+
+ - 22 Febr 2018, [A Debian-Stretch-Live Starter Kit](http://murga-linux.com/puppy/viewtopic.php?t=112784){:target="_blank"}
 
  - 10 Oct 2017, [StretchDog, a variant of DebianDog](zz02stretchdog.html){:target="_blank"}  / [Forum thread](http://murga-linux.com/puppy/viewtopic.php?t=111789){:target="_blank"}  
 
