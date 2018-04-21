@@ -33,7 +33,7 @@ Default WM - OpenBox
 (with different choice of Desktop modes: tint2 icon-panel, cairo-dock or rox-pinboard icons, to choose, run 'Desktop Manager' from Menu)    
 Tint2 bottom panel or cairo-dock.       
 Default File Manager - pcmanfm with option to use rox.    
-Default Internet Browser - Firefox.    
+Default Internet Browser - Firefox Quantum (running by default with apulse to enable sound).    
 Menu provided by Obmenu-generator (perl script)  
 
 Full LZ4 squashfs support (compression and loading modules)    
