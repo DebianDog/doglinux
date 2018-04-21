@@ -13,9 +13,9 @@ image: css/Bionic.png
 See also for Debiandog history: [Here](https://debiandog.github.io/doglinux/zz07about.html){:target="_blank"}   
 DebianDog full credits: [Here](https://github.com/DebianDog/Wheezy/blob/master/Credits.md){:target="_blank"}  
 
-[Thread on Puppy Linux forum](http://murga-linux.com/puppy/viewtopic.php?t=106696){:target="_blank"}   
+[Thread on Puppy Linux forum](http://murga-linux.com/puppy/viewtopic.php?t=113210){:target="_blank"}   
 
-**[See here for Changes and Fixes information](http://murga-linux.com/puppy/viewtopic.php?p=901549#901549)**   
+**[See here for Changes and Fixes information](http://murga-linux.com/puppy/viewtopic.php?p=989364#989364)**   
 
 Full access to Ubuntu repositories by using apt-get (from terminal) or from Synaptic Package Manager (GUI)
 
@@ -45,7 +45,7 @@ Iso 32-bit: [BionicDog32_2018-04-21.iso](https://github.com/fredx181/bionicdog/r
 Md5sum: [BionicDog32_2018-04-21.md5](https://github.com/fredx181/bionicdog/releases/download/v1.0/BionicDog32_2018-04-21.md5)     
 DEVX 32-bit: [61-DEVX-BionicDog32_2018-04-21_i386.squashfs](https://github.com/fredx181/bionicdog/releases/download/v1.1/61-DEVX-BionicDog32_2018-04-21_i386.squashfs)    
 
-Iso 64-bit: [BionicDog64_2018-04-21.iso](https://github.com/fredx181/bionicdog/releases/download/v1.0/BionicDog64_2018-04-21.iso) **Size: 305MB**          
+Iso 64-bit: [BionicDog64_2018-04-21.iso](https://github.com/fredx181/bionicdog/releases/download/v1.0/BionicDog64_2018-04-21.iso) **Size: 314MB**          
 Md5sum: [BionicDog64_2018-04-21.md5](https://github.com/fredx181/bionicdog/releases/download/v1.0/BionicDog64_2018-04-21.md5)     
 DEVX 64-bit: [61-DEVX-BionicDog64_2018-04-21_amd64.squashfs](https://github.com/fredx181/bionicdog/releases/download/v1.1/61-DEVX-BionicDog64_2018-04-21_amd64.squashfs)  
     
@@ -53,7 +53,7 @@ Locales: [99-locales-BionicDog-2018-04-21.squashfs](https://github.com/fredx181/
 
 Firmware (e.g. for WiFi): [99-bionic_linux-firmware.squashfs](https://github.com/fredx181/bionicdog/releases/download/v1.1/99-bionic_linux-firmware.squashfs)  
 
-BionicDog custom package repository: [Here 32-bit](https://fredx181.github.io/bionicdog/Packages-1386/){:target="_blank"} and [Here 64-bit](https://fredx181.github.io/bionicdog/Packages-amd64)         
+BionicDog custom package repository: [Here 32-bit](https://fredx181.github.io/bionicdog/Packages-i386/){:target="_blank"} and [Here 64-bit](https://fredx181.github.io/bionicdog/Packages-amd64)         
 
 Thanks very much to everyone who has been involved with DebianDog, specially Toni (saintless), William (mcewanw), Terry (sunburnt), Bill (rcrsn51), dancytron, belham2, backi, wiak, The Flying Cat and all who helped by giving feedback on the DebianDog and XenialDog threads.  
 
