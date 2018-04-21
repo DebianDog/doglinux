@@ -25,6 +25,8 @@ and for the valuable advices to: jbv, sfs, catsezmoo, big_bass, emil, dancytron,
     
 ## News:
 
+ - 22 Apr 2018, [BionicDog](zz06-zbionicdog.html){:target="_blank"}
+
  - 22 Febr 2018, [A Debian-Stretch-Live Starter Kit](http://murga-linux.com/puppy/viewtopic.php?t=112784){:target="_blank"}
 
  - 10 Oct 2017, [StretchDog, a variant of DebianDog](zz02stretchdog.html){:target="_blank"}  / [Forum thread](http://murga-linux.com/puppy/viewtopic.php?t=111789){:target="_blank"}  

@@ -7,11 +7,15 @@ image: css/other.png
 ---
 <br>
 
-## Other related DebianDog distro's:   
+## Other related DebianDog distro's:
+
+- [DebianDog Squeeze (oldoldoldstable) by Toni (saintless)](https://github.com/DebianDog/Squeeze){:target="_blank"}   
 
 - DebianDog Night by josejp2424 (spanish), see: [Here](http://puppylatino.blogspot.nl/2015/12/debian-dog-night-312-mb.html){:target="_blank"} and [Here](https://sourceforge.net/projects/debiandognight/files/?source=navbar){:target="_blank"}   
 
-- [Japanese DebianDog](http://ftp.riken.jp/Linux/simosnet-livecd/debiandog/){:target="_blank"}
+- [Japanese DebianDog](http://ftp.riken.jp/Linux/simosnet-livecd/debiandog/){:target="_blank"}  
+
+- [Delta Linux, based on XenialDog](https://gosoftware.ddns.net/){:target="_blank"}  
 
 ### On Youtube:   
 {::comment}
