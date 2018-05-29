@@ -55,7 +55,15 @@ Firmware (e.g. for WiFi): [99-bionic_linux-firmware.squashfs](https://github.com
 
 BionicDog custom package repository: [Here 32-bit](https://fredx181.github.io/bionicdog/Packages-i386/){:target="_blank"} and [Here 64-bit](https://fredx181.github.io/bionicdog/Packages-amd64)         
 
-Thanks very much to everyone who has been involved with DebianDog, specially Toni (saintless), William (mcewanw), Terry (sunburnt), Bill (rcrsn51), dancytron, belham2, backi, wiak, The Flying Cat and all who helped by giving feedback on the DebianDog and XenialDog threads.  
+Thanks very much to everyone who has been involved with DebianDog, specially Toni (saintless), William (mcewanw), Terry (sunburnt), Bill (rcrsn51), dancytron, belham2, backi, wiak, The Flying Cat and all who helped by giving feedback on the DebianDog and XenialDog threads.   
+
+<br>
+**YouTube Review:** thanks @sneekylinux !  
+{::comment}   
+[![Bionic Dog 64...It's No Feline..!!](http://img.youtube.com/vi/r9fuNL3gPMQ/0.jpg)](https://youtu.be/r9fuNL3gPMQ "Bionic Dog 64...It's No Feline..!!")    
+{:/comment}   
+
+<iframe width='480' height='380' src="https://www.youtube.com/embed/r9fuNL3gPMQ" frameborder="0" allowfullscreen></iframe>     
 
 **Screenshots:**  
 
