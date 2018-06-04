@@ -9,7 +9,7 @@ image: css/Bionic.png
 ### BionicDog (Ubuntu 18.04 'Bionic Beaver' LTS) 32 bit and 64 bit  
 (Ubuntu minimal "live")  
 
-**Update 2018-06-04:** New version released, info and download links below updated.   
+**Update 2018-06-04:** New version released, info and download links below updated. Changes info [Here](http://murga-linux.com/puppy/viewtopic.php?p=994470#994470){:target="_blank"}     
 
 **BionicDog is a fork of "DebianDog"** with the difference that it's Ubuntu based.   
 See also for Debiandog history: [Here](https://debiandog.github.io/doglinux/zz07about.html){:target="_blank"}   
