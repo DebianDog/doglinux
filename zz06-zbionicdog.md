@@ -7,9 +7,11 @@ image: css/Bionic.png
 ---
  
 ### BionicDog (Ubuntu 18.04 'Bionic Beaver' LTS) 32 bit and 64 bit  
-(Ubuntu minimal "live")  
+(Ubuntu minimal "live")
 
-**Update 2018-06-04:** New version released, info and download links below updated. Changes info [Here](http://murga-linux.com/puppy/viewtopic.php?p=994470#994470){:target="_blank"}     
+  
+**Update 2018-08-27:** [New! Cinnamon version by ETP](http://murga-linux.com/puppy/viewtopic.php?p=1003063#1003063)    
+**Update 2018-06-04:** New version released, info and download links below updated. Changes info [Here](http://murga-linux.com/puppy/viewtopic.php?p=994470#994470){:target="_blank"}      
 
 **BionicDog is a fork of "DebianDog"** with the difference that it's Ubuntu based.   
 See also for Debiandog history: [Here](https://debiandog.github.io/doglinux/zz07about.html){:target="_blank"}   
@@ -53,7 +55,10 @@ Iso 64-bit: [BionicDog64_2018-06-04.iso](https://github.com/fredx181/bionicdog/r
 Md5sum: [BionicDog64_2018-06-04.md5](https://github.com/fredx181/bionicdog/releases/download/v1.0/BionicDog64_2018-06-04.md5)   
 Iso 64-bit, all fimware included (e.g. for WiFi): [BionicDog64_2018-06-04-firmware_all.iso](https://github.com/fredx181/bionicdog/releases/download/v1.0/BionicDog64_2018-06-04-firmware_all.iso) **Size: 415MB**          
 Md5sum: [BionicDog64_2018-06-04-firmware_all.md5](https://github.com/fredx181/bionicdog/releases/download/v1.0/BionicDog64_2018-06-04-firmware_all.md5)    
-DEVX 64-bit: [61-DEVX-BionicDog64_2018-06-04_amd64.squashfs](https://github.com/fredx181/bionicdog/releases/download/v1.1/61-DEVX-BionicDog64_2018-06-04_amd64.squashfs)     
+DEVX 64-bit: [61-DEVX-BionicDog64_2018-06-04_amd64.squashfs](https://github.com/fredx181/bionicdog/releases/download/v1.1/61-DEVX-BionicDog64_2018-06-04_amd64.squashfs)   
+**Cinnamon version:**         
+[BionicDog64-Cinnamon-ETP_2018-08-27.iso](https://github.com/fredx181/bionicdog/releases/download/v1.0/BionicDog64-Cinnamon-ETP_2018-08-27.iso)   
+[BionicDog64-Cinnamon-ETP_2018-08-27.md5](https://github.com/fredx181/bionicdog/releases/download/v1.0/BionicDog64-Cinnamon-ETP_2018-08-27.md5)   
     
 Locales: [99-locales-BionicDog-2018-04-21.squashfs](https://github.com/fredx181/bionicdog/releases/download/v1.1/99-locales-BionicDog-2018-04-21.squashfs)  
 

@@ -25,7 +25,7 @@ and for the valuable advices to: jbv, sfs, catsezmoo, big_bass, emil, dancytron,
     
 ## News:
 
- - 22 Apr 2018, [BionicDog](zz06-zbionicdog.html){:target="_blank"} Updated: 2018-06-04  
+ - 22 Apr 2018, [BionicDog](zz06-zbionicdog.html){:target="_blank"} Updated: 2018-06-04 [Update 2018-08-27: New! Cinnamon version](http://murga-linux.com/puppy/viewtopic.php?p=1003063#1003063)     
 
  - 22 Febr 2018, [A Debian-Stretch-Live Starter Kit](http://murga-linux.com/puppy/viewtopic.php?t=112784){:target="_blank"}
 
