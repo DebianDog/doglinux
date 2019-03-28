@@ -16,12 +16,10 @@ All "DebianDog" projects (and deratives) are collected here, part of [DebianDog 
 #### [*Our thanks to Daniel Baumann! DebianDog wouldn't exist without his work.*](https://lists.debian.org/debian-live/2015/11/msg00024.html "An abrupt End to Debian Live"){:target="_blank"}    
 The DebianDog team also like to give thanks to Smokey and KazzaMozz for hosting DebianDog project, to Debian team for keeping Debian such flexible system, to the murga-linux Puppy forum for the opportunity to work on a project different from puppy linux.    
 And to our Puppy forum members working on DebianDog development: Toni (saintless), Fred (fredx181), Terry (sunburnt), William (mcewanw), Sergey (sklimkin),
-and for the valuable advices to: jbv, sfs, catsezmoo, big_bass, emil, dancytron, anikin from our forum and dzz from www.debianuserforums.org. And to Sickgut for his original idea that made possible DebianDog to exist.   
-
-
+and for the valuable advices to: jbv, sfs, catsezmoo, big_bass, emil, dancytron, anikin from our forum and dzz from www.debianuserforums.org. And to Sickgut for his original idea that made possible DebianDog to exist.  
+Also big thanks ! to the Porteus developers, specially: brokenman and phantom.    
 <br>
-
-    
+   
 ## News:
 
  - 11 Jan 2019, [DevuanDog](https://github.com/DebianDog/DevuanDog/blob/master/README.md){:target="_blank"} based on Devuan 'beowulf', alpha version, for testing [Forum thread](http://murga-linux.com/puppy/viewtopic.php?t=115124){:target="_blank"}     
