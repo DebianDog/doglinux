@@ -41,14 +41,10 @@ Menu provided by Obmenu-generator (perl script)
 
 **Download:**
 
-Iso: [DebianDog64-Jessie-openbox-2016-03-20.iso](https://dl.dropboxusercontent.com/s/4pd71uyrk53z6uh/DebianDog64-Jessie-openbox-2016-03-20.iso?dl=1) **Size: 185MB**        
-Md5sum: [DebianDog64-Jessie-openbox-2016-03-20.md5](https://dl.dropboxusercontent.com/s/jpzeydxpgioqnm9/DebianDog64-Jessie-openbox-2016-03-20.md5?dl=1){:target="_blank"}        
+Iso: [DebianDog64-Jessie-openbox-2016-03-20.iso](https://dl.dropboxusercontent.com/s/b5xsetcp0jmc2ic/DebianDog64-Jessie-openbox-2016-03-20.iso?dl=1) **Size: 185MB**          
+Md5sum: [DebianDog64-Jessie-openbox-2016-03-20.md5](https://dl.dropboxusercontent.com/s/a9irrcid7kopeza/DebianDog64-Jessie-openbox-2016-03-20.md5?dl=1){:target="_blank"}          
 
-DEVX: [061-DEVX-DebDog64-Jessie-2016-03-20.squashfs](https://dl.dropboxusercontent.com/s/ny79kwlxpzuptkz/061-DEVX-DebDog64-Jessie-2016-03-20.squashfs?dl=1)    
-
-Locales: [99-locales-DebDog64-2016-03-20.squashfs](https://dl.dropboxusercontent.com/s/nt1dr2otjnfpqff/99-locales-DebDog64-2016-03-20.squashfs?dl=1)    
-
-Browse [DebDog64-Jessie at DropBox](https://www.dropbox.com/sh/7zw9v8owznjfkze/AADGxeYik7761AX_3jHfxucIa?lst){:target="_blank"}  
+DEVX: [061-DEVX-DebDog64-Jessie-2016-03-20.squashfs](https://dl.dropboxusercontent.com/s/ljoqavqpqhad9tl/061-DEVX-DebDog64-Jessie-2016-03-20.squashfs?dl=1)       
 
 Thanks very much to everyone who has been involved with DebianDog, specially Toni (saintless), William (mcewanw), Terry (sunburnt) and all who helped by giving feedback on the DebianDog threads.
 
