@@ -4,6 +4,7 @@
         {% for p in site.pages %}
         	{% if p.home %}
         	{% else %}
+  {% if p.layout != 'default' %} 
         <li>
         	<a {% if p.url == page.url %}class="active"{% endif %} href="{{ site.baseurl }}{{ p.url }}">
             <div class="img-wrapper">
@@ -12,6 +13,7 @@
             {{ p.title }}
             </a>
         </li>
+        {% endif %}
         {% endif %}
         {% endfor %}
     </ul>

@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Wheezy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  </head>
+<style>
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section,
+summary {
+  display: block;
+}
+audio,
+canvas,
+video {
+  display: inline-block;
+}
+audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+[hidden] {
+  display: none;
+}
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+body {
+  margin: 0;
+}
+a:focus {
+  outline: thin dotted;
+}
+a:active,
+a:hover {
+  outline: 0;
+}
+h1 {
+  font-size: 2em;
+}
+abbr[title] {
+  border-bottom: 1px dotted;
+}
+b,
+strong {
+  font-weight: bold;
+}
+dfn {
+  font-style: italic;
+}
+mark {
+  background: #ff0;
+  color: #000;
+}
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, serif;
+  font-size: 1em;
+}
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+q {
+  quotes: "\201C" "\201D" "\2018" "\2019";
+}
+small {
+  font-size: 80%;
+}
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+sup {
+  top: -0.5em;
+}
+sub {
+  bottom: -0.25em;
+}
+img {
+  border: 0;
+}
+svg:not(:root) {
+  overflow: hidden;
+}
+figure {
+  margin: 0;
+}
+fieldset {
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em;
+}
+legend {
+  border: 0;
+  padding: 0;
+}
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+  font-size: 100%;
+  margin: 0;
+}
+button,
+input {
+  line-height: normal;
+}
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button;
+  cursor: pointer;
+}
+button[disabled],
+input[disabled] {
+  cursor: default;
+}
+input[type="checkbox"],
+input[type="radio"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+input[type="search"] {
+  -webkit-appearance: textfield;
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+}
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+textarea {
+  overflow: auto;
+  vertical-align: top;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+@import url(//fonts.googleapis.com/css?family=PT+Sans);
+@import url(//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
+html {
+  font-family: 'PT Sans', sans-serif;
+}
+pre,
+code {
+  font-family: monospace, sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-weight: 700;
+}
+html {
+  background-color: #fdf6e3;
+  color: #657b83;
+  margin: 1em;
+}
+code {
+  background-color: #eee8d5;
+  padding: 2px;
+}
+a {
+  color: #b58900;
+}
+a:visited {
+  color: #cb4b16;
+}
+a:hover {
+  color: #cb4b16;
+}
+h1 {
+  color: #d33682;
+}
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #859900;
+}
+pre {
+  background-color: #fdf6e3;
+  color: #657b83;
+  border: 1pt solid #93a1a1;
+  padding: 1em;
+  box-shadow: 5pt 5pt 8pt #eee8d5;
+}
+pre code {
+  background-color: #fdf6e3;
+}
+h1 {
+  font-size: 2.8em;
+}
+h2 {
+  font-size: 2.4em;
+}
+h3 {
+  font-size: 1.8em;
+}
+h4 {
+  font-size: 1.4em;
+}
+h5 {
+  font-size: 1.3em;
+}
+h6 {
+  font-size: 1.15em;
+}
+.tag {
+  background-color: #eee8d5;
+  color: #d33682;
+  padding: 0 0.2em;
+}
+.todo,
+.next,
+.done {
+  color: #fdf6e3;
+  background-color: #dc322f;
+  padding: 0 0.2em;
+}
+.tag {
+  -webkit-border-radius: 0.35em;
+  -moz-border-radius: 0.35em;
+  border-radius: 0.35em;
+}
+.TODO {
+  -webkit-border-radius: 0.2em;
+  -moz-border-radius: 0.2em;
+  border-radius: 0.2em;
+  background-color: #2aa198;
+}
+.NEXT {
+  -webkit-border-radius: 0.2em;
+  -moz-border-radius: 0.2em;
+  border-radius: 0.2em;
+  background-color: #268bd2;
+}
+.ACTIVE {
+  -webkit-border-radius: 0.2em;
+  -moz-border-radius: 0.2em;
+  border-radius: 0.2em;
+  background-color: #268bd2;
+}
+.DONE {
+  -webkit-border-radius: 0.2em;
+  -moz-border-radius: 0.2em;
+  border-radius: 0.2em;
+  background-color: #859900;
+}
+.WAITING {
+  -webkit-border-radius: 0.2em;
+  -moz-border-radius: 0.2em;
+  border-radius: 0.2em;
+  foreground-color: #cb4b16;
+}
+.HOLD {
+  -webkit-border-radius: 0.2em;
+  -moz-border-radius: 0.2em;
+  border-radius: 0.2em;
+  foreground-color: #d33682;
+}
+.NOTE {
+  -webkit-border-radius: 0.2em;
+  -moz-border-radius: 0.2em;
+  border-radius: 0.2em;
+  foreground-color: #d33682;
+}
+.CANCELLED {
+  -webkit-border-radius: 0.2em;
+  -moz-border-radius: 0.2em;
+  border-radius: 0.2em;
+  foreground-color: #859900;
+}
+table th,
+table td {
+  padding: 6px 13px;
+  border: 1px solid #ddd;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+}
+</style>
+<body>
+<h1>DebianDog Wheezy</h1>
+
+<hr />
+
+<p><br>
+<a href="http://murga-linux.com/puppy/viewtopic.php?t=93225">DebianDog-Wheezy forum thread.</a> <br/>
+<a href="https://github.com/DebianDog/Wheezy/blob/master/Bugs-and-Fixes.md">DebianDog-Wheezy updates and  fixes information.</a> <br/>
+<a href="https://github.com/DebianDog/Wheezy/releases/tag/v0.1">Extra squashfs modules</a></p>
+
+<p>DebianDog is a small Debian Live CD shaped to look like Puppy and act like Puppy. Debian structure and Debian behaviour are untouched and Debian documentation is 100% valid for DebianDog. You have access to all Debian repositories using apt-get or synaptic.</p>
+
+<p>It is not Puppy linux and it has nothing to do with Puppy based on Debian. Downloading DebianDog be ready to learn different package manager and different system setup in Debian manner.</p>
+
+<p><a href="https://github.com/DebianDog/Jessie/wiki/Boot-methods">Boot method</a> - <a href="http://www.murga-linux.com/puppy/viewtopic.php?t=93391">Utilities thread</a> - <a href="http://murga-linux.com/puppy/viewtopic.php?t=93496">HowTo thread</a>.</p>
+
+<p>Both systemd and sysvinit included with choice to boot the one you prefer. If you need to edit the boot code keep in mind adding <strong>init=/bin/systemd</strong> will boot with systemd. Removing <strong>init=/bin/systemd</strong> will boot with sysvinit.</p>
+
+<p>DebianDog is set to autologin as root. If you like to use it as multiuser system it is recommended to start XDM login manager (available only in Jwm version). Just type in terminal <strong>xdm-start</strong> and reboot. <strong>xdm-stop</strong> will reverse back autologin as root.
+In OpenBox version you can install this <a href="http://smokey01.com/saintless/DebianDog/Packages/Extra/slim_1.3.4-2-ddwheezy_i386.deb">slim deb package</a> and use menu System -> Start/Stop Slim display-manager. If you like to change the default autologin as root to autologin as user <a href="http://murga-linux.com/puppy/viewtopic.php?p=850601#850601">read here how to do it.</a></p>
+
+<p>Login details: <br/>
+<strong>root</strong> with password <strong>root</strong> <br/>
+<strong>puppy</strong> with password <strong>puppy</strong></p>
+
+<p>Two versions available for download (also attached here): <br/>
+1. From saintless:  <br/>
+<a href="https://github.com/DebianDog/Wheezy/releases/download/v1.0/DebianDog-Wheezy-jwm_icewm-2015-09-02.iso">DebianDog-Wheezy-jwm_icewm-2015-09-02.iso</a> - 119 Mb.  <br/>
+Kernel 3.2.0-4-486 (for older PC). <br/>
+<a href="https://github.com/DebianDog/Wheezy/releases/download/v1.0/DebianDog-Wheezy-jwm_icewm-2015-09-02-PAE.iso">DebianDog-Wheezy-jwm_icewm-2015-09-02-PAE.iso</a> - 141 Mb. <br/>
+Kernel-3.16.0-4-686-pae (for modern PC).</p>
+
+<p>Default WM - JWM with option to switch to IceWM. <br/>
+Default File Manager - XFE with option to use Rox. <br/>
+Default Internet Browser - Dillo.</p>
+
+<p><img src="https://github.com/DebianDog/Jessie/blob/master/screenshots/DebianDog-Wheezy-jwm-icewm.jpg?raw=true" alt="Jwm version" /> <br/>
+2. From fredx181:    <br/>
+<a href="https://github.com/DebianDog/Wheezy/releases/download/v1.0/DebianDog-Wheezy-openbox_xfce-2015-09-02.iso">DebianDog-Wheezy-openbox_xfce-2015-09-02.iso</a> - 159 Mb. <br/>
+Kernel-3.2.0.4-486 (for older PC). <br/>
+<a href="https://github.com/DebianDog/Wheezy/releases/download/v1.0/DebianDog-Wheezy-openbox_xfce-2015-09-02-PAE.iso">DebianDog-Wheezy-openbox_xfce-2015-09-02-PAE.iso</a> - 180 Mb. <br/>
+Kernel-3.16.0-4-686-pae  (for modern PC).</p>
+
+<p>Default WM - OpenBox with XFCE. <br/>
+Default File Manager - Thunar with option to use Rox or XFE. <br/>
+Default Internet Browser - Firefox.</p>
+
+<p><img src="https://github.com/DebianDog/Jessie/blob/master/screenshots/DebianDog-Wheezy-openbox-xfce.jpg?raw=true" alt="OpenBox version" /></p>
+
+<p><a href="https://github.com/DebianDog/Wheezy/blob/master/md5sum">md5sum check</a></p>
+
+<p>To test DebianDog for first time you need to burn it on CD and boot from it, or use DebianDog-installer <a href="https://github.com/DebianDog/Wheezy/releases/download/v1.0/DebianDog-Installer.tar.gz">click here to download and extract the archive</a> - working from most linux systems to make frugal install to HDD or USB,  or to extract /live folder on top of a partition or USB and edit grub menu.lst.</p>
+
+<p>The iso is hybrid and you can make bootable usb using dd command. This option is for users with more experience and  makes the usb partition with DebianDog files read-only without option to replace the included boot menu with custom menu entry.
+<a href="http://murga-linux.com/puppy/viewtopic.php?p=849026#849026">Hybrid-iso to usb example using /dev/sdb flash drive posted here.</a></p>
+
+<p><strong>It is recommended to use DebianDog-installer working on most linux systems - <a href="https://github.com/DebianDog/Wheezy/releases/download/v1.0/DebianDog-Installer.tar.gz">attached here</a>.</strong></p>
+
+<p>To keep the size small as possible all <strong>/usr/share/locale</strong> files for the included packages are moved in separate squashfs module <a href="https://github.com/DebianDog/Wheezy/releases/download/v0.1/00-locale-files-openbox_xfce.squashfs">00-locale-files-openbox_xfce.squashfs</a>  and <a href="https://github.com/DebianDog/Wheezy/releases/download/v0.1/00-locale-files-jwm-icewm.squashfs">00-locale-files-jwm-icewm.squashfs</a> available for download from sfs-get or from <strong><a href="https://github.com/DebianDog/Wheezy/releases/v0.1/">here.</a></strong>
+In case you like to change the localization install <strong>locales</strong> and load the module or place it inside /live/image/live to be loaded at boot time.
+You can also install localepurge and copy only the language files you need from the squashfs module in /usr/share/locale directory to save space in the future.
+Included <a href="http://murga-linux.com/puppy/viewtopic.php?p=861811#861811">menu-openbox</a> from Fred with localisation support (the default menu displays categories and menu entries only in English). In case you like to change the localisation type menu-openbox in terminal or start it from System -> Menu Openbox.
+More information about changing localization read <a href="http://murga-linux.com/puppy/viewtopic.php?p=851852#851852">here</a>, <a href="http://murga-linux.com/puppy/viewtopic.php?p=851889#851889">here</a> and <a href="http://murga-linux.com/puppy/viewtopic.php?p=851899#851899">here.</a></p>
+
+<p>DebianDog has tools similar to Puppy. You can create easy separate squashfs modules and remaster the system with all personal changes.
+You can even use/convert pet packages and sfs files from Puppy but it is not recommended if you like to keep well working apt-get/Synaptic package manager (which is the main advantage using DebianDog).</p>
+
+<p>I like to give my Thanks to Smokey and KazzaMozz for hosting DebianDog project <a href="http://smokey01.com/saintless/">here</a>, <a href="http://kazzascorner.com.au/saintless/DebianDog/">here</a> and <a href="https://www.mediafire.com/folder/9d9nm6np2drmq/DebianDog_by_Saintless">here</a>, to Debian team for keeping Debian such flexible system, to http://murga-linux.com/puppy/index.php and http://github.com for the opportunity to work on this project, to puppy linux forum members working on DebianDog development: Fred (fredx181), Terry (sunburnt), William (mcewanw), Sergey (sklimkin), and for the valuable advices to: jbv, sfs, catsezmoo, big_bass, emil, dancytron, anikin from our forum
+and dzz from www.debianuserforums.org
+And  to Sickgut for his original idea that made possible DebianDog to exist.</p>
+
+<p><strong>Related links:</strong> <br/>
+<a href="https://github.com/MintPup/Lumina">Lumina Desktop for DebianDog and MintPup</a> <br/>
+<a href="https://github.com/limelime/DebianDog/wiki/Chinese-characters-support-in-Iceweasel-Firefox-and-in-the-console-terminal">Setting up Chinese fonts github wiki from limelime</a> <br/>
+<a href="http://murga-linux.com/puppy/viewtopic.php?p=833212#833212">DebianDog wireless LAN HowTo thread</a> <br/>
+<a href="https://github.com/MintPup/MintPup-Trusty">MintPup-Trusty LTS</a> <br/>
+<a href="https://github.com/DebianDog/Jessie">DebianDog-Jessie</a> <br/>
+<a href="https://github.com/DebianDog/Wheezy">DebianDog-Wheezy</a> <br/>
+<a href="https://github.com/MintPup/DebianDog-Squeeze">DebianDog-Squeeze</a> <br/>
+<a href="https://github.com/MintPup/Retro-Debian">Retro-Debian</a> <br/>
+<a href="http://murga-linux.com/puppy/viewtopic.php?p=862907#862907">Kingston wps-office sfs module</a> <br/>
+<a href="http://murga-linux.com/puppy/viewtopic.php?p=832727#832727">Infinality fonts packages for Debian Wheezy (thanks to Keisha)</a> <br/>
+<a href="http://murga-linux.com/puppy/viewtopic.php?t=93496">DebianDog HowTo thread</a> <br/>
+<a href="http://www.murga-linux.com/puppy/viewtopic.php?t=93391">DebianDog Utilities thread</a> <br/>
+<a href="http://murga-linux.com/puppy/viewtopic.php?p=777990#777990">Systemd boot information</a> <br/>
+<a href="http://www.murga-linux.com/puppy/viewtopic.php?p=804004#804004">Install Spotify on Debian/DebianDog</a> <br/>
+<a href="http://murga-linux.com/puppy/viewtopic.php?t=95139">DebianDog + Blue Pup Quirky Tahr Dual Boot USB Stick How-To</a> <br/>
+<a href="http://murga-linux.com/puppy/viewtopic.php?t=95249">How To Make A Network Storage NAS Appliance With DebianDog and OpenMediaVault</a> <br/>
+<a href="http://murga-linux.com/puppy/viewtopic.php?p=793486#793486">Use old Skype version after 01.08.2014</a></p>
+</body>
+</html>

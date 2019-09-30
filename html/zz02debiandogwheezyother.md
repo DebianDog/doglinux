@@ -1,9 +1,16 @@
 ---
-layout: menu
+layout: default
 title: DebianDog Wheezy
-image: css/wheezy.png
+image: ../css/wheezy.png
 ---     
+<style>
+div {
+  padding: 20px;
+  border: 1px solid #4CAF50;
+}
+</style>
 
+## DebianDog-Wheezy
 ---
 <br> 
 [DebianDog-Wheezy forum thread.](http://murga-linux.com/puppy/viewtopic.php?t=93225){:target="_blank"}   

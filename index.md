@@ -22,6 +22,8 @@ Also big thanks ! to the Porteus developers, specially: brokenman and phantom.
    
 ## News:
 
+ - 28 Sep 2019, [DevuanDog release](zz02devuandog.html){:target="_blank"} / [Forum thread](http://murga-linux.com/puppy/viewtopic.php?t=115124){:target="_blank"}
+
  - 11 May 2019, [DevuanDog 'beowulf' build system](https://debiandog.github.io/MakeLive/Readme-build-devuandog-beowulf.html){:target="_blank"} / [Forum thread](http://murga-linux.com/puppy/viewtopic.php?t=116116){:target="_blank"}  
 
  - 11 Jan 2019, [DevuanDog](https://github.com/DebianDog/DevuanDog/blob/master/README.md){:target="_blank"} based on Devuan 'beowulf', alpha version, for testing [Forum thread](http://murga-linux.com/puppy/viewtopic.php?t=115124){:target="_blank"}     

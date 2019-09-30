@@ -453,7 +453,7 @@ margin-left: 5px;
 .nav-primary .img-wrapper img {
 	width: 34px;
 	height: 34px;
-    opacity: 0.5;
+    opacity: 1.0;
 
     }
 
@@ -487,8 +487,8 @@ margin: 1px;
 .nav-primary .active,
 .nav-primary .active:hover {
 	background-color: #F5F2EC;
-    background: linear-gradient(to top, rgba(198,194,190,.90), rgba(250,245,230,3));
-	color: #252525;
+    background: linear-gradient(to top, rgba(78,74,40,.9), rgba(180,170,160,1));
+    	color: #fff;
     }
    
 .nav-primary li a:active,
