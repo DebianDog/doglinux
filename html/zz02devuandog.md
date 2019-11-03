@@ -1,9 +1,16 @@
 ---
-layout: menu
+layout: default
 title: DevuanDog
-image: css/devuan.png
+image: ../css/devuan.png
 ---     
-
+<style>
+div {
+  padding: 20px;
+  border: 1px solid #4CAF50;
+}
+</style>  
+   
+## DevuanDog  
 ---
 <br> 
 DevuanDog, based on the [Devuan](https://devuan.org/) 'Beowulf' branch.   
