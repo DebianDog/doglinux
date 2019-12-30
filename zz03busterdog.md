@@ -12,12 +12,8 @@ It's using special method (taken from **AntiX**) to avoid systemd by replacing s
 [Forum thread](http://murga-linux.com/puppy/viewtopic.php?t=117255){:target="_blank"}     
 See [Here](https://debiandog.github.io/MakeLive/Readme-build-busterdog.html){:target="_blank"} for a **Busterdog build system**.    
 
-### 32 and 64 bit ISO's:        
-(see specifications below)             
-Iso 32 bit: [BusterDog-openbox_jwm-2019-11-03_32-bit.iso](https://github.com/DebianDog/BusterDog/releases/download/v0.1/BusterDog-openbox_jwm-2019-11-03_32-bit.iso) **Size: 296MB** 
-[Md5sum](https://github.com/DebianDog/BusterDog/releases/download/v0.1/BusterDog-openbox_jwm-2019-11-03_32-bit.md5)           
-Iso 64 bit: [BusterDog-openbox_jwm-2019-11-03_64-bit.iso](https://github.com/DebianDog/BusterDog/releases/download/v0.1/BusterDog-openbox_jwm-2019-11-03_64-bit.iso) **Size: 320MB** 
-[Md5sum](https://github.com/DebianDog/BusterDog/releases/download/v0.1/BusterDog-openbox_jwm-2019-11-03_64-bit.md5)         
+### 32 and 64 bit ISO's, download:  [Here](https://github.com/DebianDog/BusterDog/blob/master/README.md#busterdog--build-system){:target="_blank"}            
+(see specifications below)                   
       
 DEVX and Firmware squashfs modules: [Here](https://github.com/DebianDog/BusterDog/releases/tag/v0.2)         
 
