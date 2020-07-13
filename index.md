@@ -22,7 +22,7 @@ Also big thanks ! to the Porteus developers, specially: brokenman and phantom.
    
 ## News:
 
-- 13 July 2020, Forum murga-linux.com/puppy is offline. R.I.P. John Murga, [Info at new forum] (https://puppylinux.rockedge.org/viewtopic.php?f=4&t=58){:target="_blank"} Thanks Rockedge!     
+- 13 July 2020, Forum murga-linux.com/puppy is offline. R.I.P. John Murga, [Info at new forum](https://puppylinux.rockedge.org/viewtopic.php?f=4&t=58){:target="_blank"} Thanks Rockedge!     
 
  - 29 June 2020, [BusterDog ISO's updated](zz03busterdog.html){:target="_blank"} / [Forum thread](https://puppylinux.rockedge.org/viewtopic.php?f=46&t=87){:target="_blank"}
 
