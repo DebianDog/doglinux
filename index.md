@@ -22,11 +22,13 @@ Also big thanks ! to the Porteus developers, specially: brokenman and phantom.
    
 ## News:
 
- - 29 June 2020, [BusterDog ISO's updated](zz03busterdog.html){:target="_blank"} / [Forum announcement](http://murga-linux.com/puppy/viewtopic.php?p=1061931#1061931){:target="_blank"}
+- 13 July 2020, Forum murga-linux.com/puppy is offline. R.I.P. John Murga, [Info at new forum] (https://puppylinux.rockedge.org/viewtopic.php?f=4&t=58){:target="_blank"} Thanks Rockedge!     
+
+ - 29 June 2020, [BusterDog ISO's updated](zz03busterdog.html){:target="_blank"} / [Forum thread](https://puppylinux.rockedge.org/viewtopic.php?f=46&t=87){:target="_blank"}
 
  - 04 Dec 2019, [Sparky Bonsai 64bit, a mix of BusterDog and Sparky Linux](https://github.com/maurosh/SparkyBonsai){:target="_blank"} / [Forum thread](http://murga-linux.com/puppy/viewtopic.php?t=117504){:target="_blank"}     
 
- - 03 Nov 2019, [BusterDog release](zz03busterdog.html){:target="_blank"} / [Forum thread](http://murga-linux.com/puppy/viewtopic.php?t=117255){:target="_blank"} / [DevuanDog discontinued](http://murga-linux.com/puppy/viewtopic.php?p=1040932#1040932){:target="_blank"} 
+ - 03 Nov 2019, [BusterDog release](zz03busterdog.html){:target="_blank"} / [Forum thread](https://puppylinux.rockedge.org/viewtopic.php?f=46&t=87){:target="_blank"} / [DevuanDog discontinued](http://murga-linux.com/puppy/viewtopic.php?p=1040932#1040932){:target="_blank"} 
 
  - 28 Sep 2019, [DevuanDog release (update 03 Nov 2019: discontinued)](html/zz02devuandog.html){:target="_blank"} / [Forum thread](http://murga-linux.com/puppy/viewtopic.php?t=115124){:target="_blank"}
 
