@@ -6,7 +6,7 @@ image: css/devuan.png
 
 ---
 <br>   
-**Updated 2020-06-29**
+**Updated 2020-09-07** 64-bit version is now with UEFI support
  
 BusterDog, based on the Debian 'Buster' branch but **without systemd**.  
 It's using special method (taken from **AntiX**) to avoid systemd by replacing systemd with 'elogind'.  
@@ -28,7 +28,7 @@ Custom repository: [32-bit](https://doglinux.github.io/busterdog/i386/) [64-bit]
 **puppy** with password **puppy**
 
 **Specifications:**          
-Kernel: 4.19.0-9 (the kernel is separate module)         
+Kernel: 4.19.0-9 (the kernel is separate module) for 64-bit-UEFI, kernel 4.19.0-10            
 Choice of Boot Methods: porteus-boot and live-boot v3 (see for options [Here](https://github.com/DebianDog/BusterDog/raw/master/Examples-boot-codes.txt))  
 (EDIT: See post [Here](http://murga-linux.com/puppy/viewtopic.php?p=1015160#1015160) for how to boot with older kernel 3.16 if possibly your hardware is too old for booting v4.19)  
 Default WM - OpenBox, with Desktop choices (run 'Desktop Manager' to choose):  
