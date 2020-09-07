@@ -22,6 +22,8 @@ Also big thanks ! to the Porteus developers, specially: brokenman and phantom.
    
 ## News:
 
+- 07 Sep 2020, [BusterDog 64-bit](https://forum.puppylinux.com/viewtopic.php?p=4314#p4314){:target="_blank"} and [FossaDog64](https://forum.puppylinux.com/viewtopic.php?p=4308#p4308){:target="_blank"} upgraded with UEFI support.      
+
 - 13 Aug 2020, [FossaDog Alpha](https://github.com/DebianDog/FossaDog#fossadog-ubuntu-2004-focal-fossa-lts-64-bit){:target="_blank"} / [Old Puppy Linux forum back online, read only](http://oldforum.puppylinux.com/){:target="_blank"}   
 
 - 13 July 2020, Forum murga-linux.com/puppy is offline. R.I.P. John Murga, [Info at new forum](https://puppylinux.rockedge.org/viewtopic.php?f=4&t=58){:target="_blank"} Thanks Rockedge!     
