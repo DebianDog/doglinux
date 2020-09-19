@@ -13,7 +13,9 @@ image: css/other.png
 
 - [DebianDog Wheezy (oldoldoldstable)](html/zz02debiandogwheezyother.html){:target="_blank"}   
 
-- [DevuanDog (discontinued)](html/zz02devuandog.html){:target="_blank"}    
+- [DevuanDog (discontinued)](html/zz02devuandog.html){:target="_blank"}  
+
+ - [MintPup (discontinued)](html/zz04mintpup.html){:target="_blank"}      
 
 - DebianDog Night by josejp2424 (spanish), see: [Here](http://puppylatino.blogspot.nl/2015/12/debian-dog-night-312-mb.html){:target="_blank"} and [Here](https://sourceforge.net/projects/debiandognight/files/?source=navbar){:target="_blank"}   
 

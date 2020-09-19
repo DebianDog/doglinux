@@ -1,9 +1,15 @@
 ---
-layout: menu
+layout: default
 title: MintPup
-image: css/mintdeb.png
+image: ../css/mintdeb.png
 ---
-
+<style>  
+div {  
+  padding: 20px;  
+  border: 1px solid #4CAF50;  
+}  
+</style>  
+## MintPup    
 ---
 <br>
 MintPup-Trusty is a fork of DebianDog based on Linux Mint 17.1 and Ubuntu-Trusty

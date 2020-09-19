@@ -20,7 +20,9 @@ and for the valuable advices to: jbv, sfs, catsezmoo, big_bass, emil, dancytron,
 Also big thanks ! to the Porteus developers, specially: brokenman and phantom.    
 <br>
    
-## News:
+## News:  
+
+- 19 Sep 2020, [FossaDog Release](zz04fossadog.html){:target="_blank"}  
 
 - 07 Sep 2020, [BusterDog 64-bit](https://forum.puppylinux.com/viewtopic.php?p=4314#p4314){:target="_blank"} and [FossaDog64](https://forum.puppylinux.com/viewtopic.php?p=4308#p4308){:target="_blank"} upgraded with UEFI support.      
 
