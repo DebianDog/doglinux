@@ -20,7 +20,9 @@ and for the valuable advices to: jbv, sfs, catsezmoo, big_bass, emil, dancytron,
 Also big thanks ! to the Porteus developers, specially: brokenman and phantom.    
 <br>
    
-## News:  
+## News:
+
+- 24 Sep 2020,  [DebianDog Sid](https://github.com/DebianDog/Sid#debiandog-sid){:target="_blank"} / [Forum thread](https://forum.puppylinux.com/viewtopic.php?f=46&t=824){:target="_blank"}     
 
 - 19 Sep 2020, [FossaDog Release](zz04fossadog.html){:target="_blank"}  
 
