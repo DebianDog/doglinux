@@ -22,6 +22,8 @@ Also big thanks ! to the Porteus developers, specially: brokenman and phantom.
    
 ## News:
 
+- 23 Jan 2021, [Bullseye Build Script](https://debiandog.github.io/MakeLive/Readme-build-bullseyedog.html) / [Forum thread](https://forum.puppylinux.com/viewtopic.php?f=46&t=1857){:target="_blank"}     
+
 - 24 Sep 2020,  [DebianDog Sid](https://github.com/DebianDog/Sid#debiandog-sid){:target="_blank"} / [Forum thread](https://forum.puppylinux.com/viewtopic.php?f=46&t=824){:target="_blank"}     
 
 - 19 Sep 2020, [FossaDog Release](zz04fossadog.html){:target="_blank"}  
