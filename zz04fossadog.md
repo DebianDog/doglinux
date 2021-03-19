@@ -15,9 +15,9 @@ Update 2020-09-07 Now with UEFI support.
 See also for Debiandog history: [Here](https://debiandog.github.io/doglinux/zz07about.html)     
 DebianDog full credits: [Here](https://github.com/DebianDog/Wheezy/blob/master/Credits.md)    
 
-[Thread on new Puppy Linux forum](https://forum.puppylinux.com/viewtopic.php?f=58&t=478)    
+[Thread on new Puppy Linux forum](https://puppylinux.rockedge.org/viewtopic.php?f=58&t=478)    
 
-**[See here for Changes and Fixes information](https://forum.puppylinux.com/viewtopic.php?p=2476#p2476)**     
+**[See here for Changes and Fixes information](https://puppylinux.rockedge.org/viewtopic.php?p=2476#p2476)**     
 
 Full access to Ubuntu repositories by using apt-get (from terminal) or from Synaptic Package Manager (GUI) 
     

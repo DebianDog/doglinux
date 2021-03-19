@@ -22,15 +22,15 @@ Also big thanks ! to the Porteus developers, specially: brokenman and phantom.
    
 ## News:
 
-- 23 Jan 2021, [Bullseye Build Script](https://debiandog.github.io/MakeLive/Readme-build-bullseyedog.html) / [Forum thread](https://forum.puppylinux.com/viewtopic.php?f=46&t=1857){:target="_blank"}     
+- 23 Jan 2021, [Bullseye Build Script](https://debiandog.github.io/MakeLive/Readme-build-bullseyedog.html) / [Forum thread](https://puppylinux.rockedge.org/viewtopic.php?f=46&t=1857){:target="_blank"}     
 
-- 24 Sep 2020,  [DebianDog Sid](https://github.com/DebianDog/Sid#debiandog-sid){:target="_blank"} / [Forum thread](https://forum.puppylinux.com/viewtopic.php?f=46&t=824){:target="_blank"}     
+- 24 Sep 2020,  [DebianDog Sid](https://github.com/DebianDog/Sid#debiandog-sid){:target="_blank"} / [Forum thread](https://puppylinux.rockedge.org/viewtopic.php?f=46&t=824){:target="_blank"}     
 
 - 19 Sep 2020, [FossaDog Release](zz04fossadog.html){:target="_blank"}  
 
-- 07 Sep 2020, [BusterDog 64-bit](https://forum.puppylinux.com/viewtopic.php?p=4314#p4314){:target="_blank"} and [FossaDog64](https://forum.puppylinux.com/viewtopic.php?p=4308#p4308){:target="_blank"} upgraded with UEFI support.      
+- 07 Sep 2020, [BusterDog 64-bit](https://puppylinux.rockedge.org/viewtopic.php?p=4314#p4314){:target="_blank"} and [FossaDog64](https://puppylinux.rockedge.org/viewtopic.php?p=4308#p4308){:target="_blank"} upgraded with UEFI support.      
 
-- 13 Aug 2020, [FossaDog Alpha](https://github.com/DebianDog/FossaDog#fossadog-ubuntu-2004-focal-fossa-lts-64-bit){:target="_blank"} / [Old Puppy Linux forum back online, read only](http://oldforum.puppylinux.com/){:target="_blank"}   
+- 13 Aug 2020, [FossaDog Alpha](https://github.com/DebianDog/FossaDog#fossadog-ubuntu-2004-focal-fossa-lts-64-bit){:target="_blank"} / [Old Puppy Linux forum back online, read only](http://oldpuppylinux.rockedge.org/){:target="_blank"}   
 
 - 13 July 2020, Forum murga-linux.com/puppy is offline. R.I.P. John Murga, [Info at new forum](https://puppylinux.rockedge.org/viewtopic.php?f=4&t=58){:target="_blank"} Thanks Rockedge!     
 
