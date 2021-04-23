@@ -16,11 +16,13 @@ All "DebianDog" projects (and deratives) are collected here, part of [DebianDog 
 #### [*Our thanks to Daniel Baumann! DebianDog wouldn't exist without his work.*](https://lists.debian.org/debian-live/2015/11/msg00024.html "An abrupt End to Debian Live"){:target="_blank"}    
 The DebianDog team also like to give thanks to Smokey and KazzaMozz for hosting DebianDog project, to Debian team for keeping Debian such flexible system, to the murga-linux Puppy forum for the opportunity to work on a project different from puppy linux.    
 And to our Puppy forum members working on DebianDog development: Toni (saintless), Fred (fredx181), Terry (sunburnt), William (mcewanw), Sergey (sklimkin),
-and for the valuable advices to: jbv, sfs, catsezmoo, big_bass, emil, dancytron, anikin from our forum and dzz from www.debianuserforums.org. And to Sickgut for his original idea that made possible DebianDog to exist.  
+and for the valuable advices to: jbv, sfs, catsezmoo, big_bass, emil, dancytron, anikin, rcrsn51 from our forum and dzz from www.debianuserforums.org. And to Sickgut for his original idea that made possible DebianDog to exist.  
 Also big thanks ! to the Porteus developers, specially: brokenman and phantom.    
 <br>
    
 ## News:
+
+- 04 Apr 2021, [Sparky Bonsai v2.1, a mix of DebianDog and Sparky Linux](https://osdn.net/projects/sparkybonsai/releases/p17829){:target="_blank"} / [Forum thread](https://forum.puppylinux.com/viewtopic.php?f=46&t=2572){:target="_blank"}    
 
 - 23 Jan 2021, [Bullseye Build Script](https://debiandog.github.io/MakeLive/Readme-build-bullseyedog.html) / [Forum thread](https://forum.puppylinux.com/viewtopic.php?f=46&t=1857){:target="_blank"}     
 
