@@ -22,6 +22,8 @@ Also big thanks ! to the Porteus developers, specially: brokenman and phantom.
    
 ## News:
 
+- 18 June 2023, Bookworm build script [Forum thread](https://forum.puppylinux.com/viewtopic.php?t=5069){:target="_blank"}
+
 - 04 Apr 2021, [Sparky Bonsai v2.1, a mix of DebianDog and Sparky Linux](https://osdn.net/projects/sparkybonsai/releases/p17829){:target="_blank"} / [Forum thread](https://forum.puppylinux.com/viewtopic.php?f=46&t=2572){:target="_blank"}    
 
 - 23 Jan 2021, [Bullseye Build Script](https://debiandog.github.io/MakeLive/Readme-build-bullseyedog.html) / [Forum thread](https://forum.puppylinux.com/viewtopic.php?f=46&t=1857){:target="_blank"}     
