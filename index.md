@@ -22,7 +22,7 @@ Also big thanks ! to the Porteus developers, specially: brokenman and phantom.
    
 ## News:
 
-- 21 July 2025, Trixie build script [Forum thread](https://forum.puppylinux.com/viewtopic.php?t=11771){:target="_blank"} / [Test ISO] (https://forum.puppylinux.com/viewtopic.php?t=14781){:target="_blank"} 
+- 21 July 2025, Trixie build script [Forum thread](https://forum.puppylinux.com/viewtopic.php?t=11771){:target="_blank"} / Test ISO [Forum thread](https://forum.puppylinux.com/viewtopic.php?t=14781){:target="_blank"} 
 
 - 22 June 2025, The Debian-Live Trixie Starter Kit [Forum thread](https://forum.puppylinux.com/viewtopic.php?p=150795#p150795){:target="_blank"}
 
