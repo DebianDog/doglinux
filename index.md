@@ -22,6 +22,12 @@ Also big thanks ! to the Porteus developers, specially: brokenman and phantom.
    
 ## News:
 
+- 21 July 2025, Trixie build script [Forum thread](https://forum.puppylinux.com/viewtopic.php?t=11771){:target="_blank"} / [Test ISO] (https://forum.puppylinux.com/viewtopic.php?t=14781){:target="_blank"} 
+
+- 22 June 2025, The Debian-Live Trixie Starter Kit [Forum thread](https://forum.puppylinux.com/viewtopic.php?p=150795#p150795){:target="_blank"}
+
+- 18 Jan 2025, PocketHandyBox [Forum thread](https://forum.puppylinux.com/viewtopic.php?p=140489#p140489){:target="_blank"}
+
 - 18 June 2023, Bookworm build script [Forum thread](https://forum.puppylinux.com/viewtopic.php?t=5069){:target="_blank"}
 
 - 22 May 2023, [The Debian-Live Daedalus Starter Kit](https://forum.puppylinux.com/viewtopic.php?p=89794#p89794){:target="_blank"}
